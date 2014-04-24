@@ -1,0 +1,20 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Cristian Consonni -- translation and adaptation -- @CristianCantoro
+
+# THANKS
+
+    The Humanitarian Information Unit of the State Department of the United 
+    States of America.
+    The orginal code for the website is available at:
+    https://github.com/state-hiu/Mapgive
+
+# TECHNOLOGY COLOPHON
+	
+	Jekyll (http://jekyllrb.com)
+	Grunt (http://gruntjs.com/)
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr

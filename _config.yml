@@ -1,0 +1,11 @@
+name: MapGive
+markdown: redcarpet
+pygments: false
+timezone: America/New_York
+permalink: none
+baseurl: /
+url: http://mapgive-it-jekyll.org
+destination: temp/
+
+# Explicit excludes, including dotfiles to be safe
+exclude: [.DS_Store, .git, .gitignore, .vagrant, Gruntfile.js, Vagrantfile, package.json, node_modules, backups, _assets/img/src-images, clean.sh, build.sh, README.md]
