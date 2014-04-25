@@ -1,7 +1,11 @@
 #!/bin/bash
 
-echo "Removing _site directory ..."
-rm -r _site
+if [ -d _site ]; then
+    echo "Removing _site directory ..."
+    rm -r _site
+fi
 
-echo "Removing assets directory ..."
-rm -r assets
+if [ -d assets ]; then
+    echo "Removing assets directory ..."
+    rm -r assets
+fi

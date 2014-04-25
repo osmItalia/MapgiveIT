@@ -1,7 +1,7 @@
 name: MapGive
 markdown: redcarpet
 pygments: false
-timezone: America/New_York
+timezone: Italy/Rome
 permalink: none
 baseurl: /
 url: http://mapgive-it-jekyll.org
