@@ -52,6 +52,15 @@ Di seguito troverete alcune informazioni utili.
 Il sito è costruito usando [Jekyll](http://jekyllrb.com) e
 [Grunt](http://gruntjs.com/).
 
+Le seguenti versioni permettono di costruire una build funzionante del sito:
+* `ruby` v2.1.0
+* `jekyll` v1.5.1
+* `nodejs` v0.10.15
+* `grunt-cli` v0.1.13
+* `grunt` v0.4.4
+* `OptiPNG` v0.7.5
+* `jpegtran` v1.2.0
+
 Per installare Jekyll è necessario avere un'ambiente di sviluppo Ruby sulla
 propria macchina, in particolare si consiglia di installare RVM.
 Seguite queste istruzioni per 
@@ -66,18 +75,51 @@ gem install jekyll
 ```
 
 Per installare Grunt avrete bisogno di [Node.js](http://nodejs.org) e 
-[npm](https://www.npmjs.org/) che possono essere installati su Ubuntu 
+[npm](https://www.npmjs.org/) che possono essere installati su Ubuntu
 attraverso `apt-get`.
+
+*Attenzione*: la versione di Node.js installata su versioni precedenti di
+Ubuntu (e.g. 12.04 LTS server) è troppo vecchia per  poter essere usata, è
+necessario avere una versione di Node >= 0..8.0.
+Se la vostra versione è troppo vecchia rimuovetela (con
+`apt-get purge --remove nodejs`) e installate Node.js seguendo
+[queste istruzioni](https://ariejan.net/2011/10/24/installing-node-js-and-npm-on-ubuntu-debian/).
 
 Quindi è possibile installare tutti i moduli richiesti con il seguente
 comando.
 ```
 npm install
 ```
-Infine create una cartella per ospitare i backup del sito (verra ignorata 
-da git):
+Infine create una cartella per ospitare i backup del sito (verrà ignorata da
+git):
 ```
 mkdir backup
+```
+
+### Dipendenze
+Per potere eseguire i vari task di Grunt è necessario avere installato:
+`OptiPNG` e `jpegtran`.
+
+#### Installare OptiPNG
+La versione di OptiPNG presente nei repository di Ubuntu non supporta
+un'opzione necessaria alla costruzione del sito.
+
+È possibile scaricare la vv0.7.5 du OptiPNG dal sito del
+[progetto su Sourceforge](http://optipng.sourceforge.net/)
+
+Dopodicché è possibile installare il programma con:
+
+```
+./configure
+make
+sudo make install
+```
+
+#### Installare jpegtran
+È possibile install `jpegtran` con il comando
+
+```
+install libjpeg-progs
 ```
 
 ### build.sh
