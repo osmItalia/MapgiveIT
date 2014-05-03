@@ -1,0 +1,688 @@
+﻿1
+00:00:00,110 --> 00:00:04,759
+in selecting a task
+
+2
+00:00:04,759 --> 00:00:10,929
+from the OpenStreetMap tasking manager
+introduction
+
+3
+00:00:10,929 --> 00:00:14,150
+in this video tutorial will show you how
+to select
+
+4
+00:00:14,150 --> 00:00:17,160
+a task from the map give learn to map
+page
+
+5
+00:00:17,160 --> 00:00:21,320
+and work with the OpenStreetMap task
+manager so you can start mapping
+
+6
+00:00:21,320 --> 00:00:25,460
+to make a different now that you know
+how to map it's time to put those skills
+
+7
+00:00:25,460 --> 00:00:26,439
+to work
+
+8
+00:00:26,439 --> 00:00:29,730
+as you seen mapping is easy and soon
+
+9
+00:00:29,730 --> 00:00:33,920
+you'll be making and it's taking help
+others around the world you may not be
+
+10
+00:00:33,920 --> 00:00:35,100
+familiar with them
+
+11
+00:00:35,100 --> 00:00:38,429
+or all other locations in need a
+humanitarian
+
+12
+00:00:38,429 --> 00:00:41,820
+mapping that's okay you can still help
+
+13
+00:00:41,820 --> 00:00:45,939
+you simply need to look at satellite
+imagery and trace wrote
+
+14
+00:00:45,939 --> 00:00:49,759
+path buildings and areas in the same way
+you did
+
+15
+00:00:49,759 --> 00:00:53,710
+when you return to map you do not need
+to know the names are roads and
+
+16
+00:00:53,710 --> 00:00:54,750
+buildings to help
+
+17
+00:00:54,750 --> 00:00:57,820
+by tracing you are generating map data
+that is
+
+18
+00:00:57,820 --> 00:01:00,899
+open and available to the world through
+OpenStreetMap
+
+19
+00:01:00,899 --> 00:01:04,719
+another thing to note even if you only
+make
+
+20
+00:01:04,719 --> 00:01:07,950
+a few map at its duty OpenStreetMap task
+manager
+
+21
+00:01:07,950 --> 00:01:11,960
+you are helping in a major way there is
+no minimum
+
+22
+00:01:11,959 --> 00:01:17,099
+and every effort helps no matter how
+small if we all do a little together
+
+23
+00:01:17,099 --> 00:01:21,109
+we can accomplish a lot there are
+written instructions on the map give
+
+24
+00:01:21,109 --> 00:01:21,688
+site
+
+25
+00:01:21,688 --> 00:01:25,399
+which may be helpful as you start to map
+any OpenStreetMap tasking
+
+26
+00:01:25,400 --> 00:01:30,009
+manager if you don't feel comfortable
+napping yet please pass this video
+
+27
+00:01:30,009 --> 00:01:33,118
+and select the how to map tutorial video
+
+28
+00:01:33,118 --> 00:01:36,349
+from the map gives site come back to
+this video
+
+29
+00:01:36,349 --> 00:01:39,819
+once you are ready getting started
+
+30
+00:01:39,819 --> 00:01:43,398
+from map gives learn to map page scroll
+down
+
+31
+00:01:43,399 --> 00:01:47,140
+be low this video to the section called
+select a task
+
+32
+00:01:47,140 --> 00:01:50,140
+in this section you will see a list
+
+33
+00:01:50,140 --> 00:01:55,310
+a humanitarian mapping tasks select the
+one you would like to work on
+
+34
+00:01:55,310 --> 00:01:58,329
+once you have selected the task either
+
+35
+00:01:58,328 --> 00:02:03,629
+a new browser tab or window open taking
+you directly to the mapping tasks
+
+36
+00:02:03,629 --> 00:02:08,429
+on the OpenStreetMap tasking manager
+website here you will be asked to log
+
+37
+00:02:08,429 --> 00:02:09,098
+into your
+
+38
+00:02:09,098 --> 00:02:13,959
+OpenStreetMap account this is the same
+account you signed up for in step 1
+
+39
+00:02:13,959 --> 00:02:18,330
+on the Mac your site's learn to map
+section you will also be asked to
+
+40
+00:02:18,330 --> 00:02:19,200
+authorize
+
+41
+00:02:19,199 --> 00:02:22,909
+the OpenStreetMap tasking managers
+access to your account
+
+42
+00:02:22,909 --> 00:02:27,219
+please posits video can take a moment to
+make sure that you have logged
+
+43
+00:02:27,219 --> 00:02:28,139
+incorrectly
+
+44
+00:02:28,139 --> 00:02:32,039
+starting a task in
+
+45
+00:02:32,039 --> 00:02:36,400
+once you have signed in and allowed
+access here OpenStreetMap account you
+
+46
+00:02:36,400 --> 00:02:39,370
+will see the task that you selected from
+the map give site
+
+47
+00:02:39,370 --> 00:02:43,269
+you will see a map and some information
+about the task
+
+48
+00:02:43,269 --> 00:02:47,640
+the information about the task includes
+a description what map give would like
+
+49
+00:02:47,639 --> 00:02:48,729
+you to focus on
+
+50
+00:02:48,729 --> 00:02:52,439
+live at task is important instructions
+
+51
+00:02:52,439 --> 00:02:55,889
+and what to map the individual mapping
+tasks
+
+52
+00:02:55,889 --> 00:02:59,639
+which users have worked on this task and
+some stats
+
+53
+00:02:59,639 --> 00:03:01,109
+about the task
+
+54
+00:03:01,110 --> 00:03:05,500
+please pass this video and familiarize
+yourself with the OpenStreetMap testing
+
+55
+00:03:05,500 --> 00:03:08,689
+manager return to this video when you
+are ready
+
+56
+00:03:08,689 --> 00:03:11,840
+for more details picking a tile to work
+on
+
+57
+00:03:11,840 --> 00:03:15,120
+let's use the interactive map and zoom
+in
+
+58
+00:03:15,120 --> 00:03:19,330
+on highlighted tiles the task has been
+broken up into smaller
+
+59
+00:03:19,330 --> 00:03:23,410
+tile areas at the map to allow you to do
+a little bit mapping
+
+60
+00:03:23,409 --> 00:03:26,689
+rather than trying to map the entire
+area
+
+61
+00:03:26,689 --> 00:03:31,159
+this also lets others simultaneously map
+other tiles were areas
+
+62
+00:03:31,159 --> 00:03:35,049
+by doing this in small pieces you can
+all work
+
+63
+00:03:35,050 --> 00:03:39,400
+faster when you select tile you are
+taking a task
+
+64
+00:03:39,400 --> 00:03:43,039
+your task is to map that's perfect I'll
+by tracing
+
+65
+00:03:43,039 --> 00:03:48,879
+satellite imagery grey tiles represent
+all the task available on this job
+
+66
+00:03:48,879 --> 00:03:52,490
+reptiles are areas that have been marked
+as done
+
+67
+00:03:52,490 --> 00:03:56,000
+green tiles areas that were marked as
+done
+
+68
+00:03:56,000 --> 00:04:00,150
+and have also been validated grey tiles
+
+69
+00:04:00,150 --> 00:04:04,050
+yellow outlines areas that are currently
+being worked on
+
+70
+00:04:04,050 --> 00:04:07,130
+click on a great I'll on the map to
+selected
+
+71
+00:04:07,129 --> 00:04:11,129
+the task tab open in the task tab
+
+72
+00:04:11,129 --> 00:04:14,169
+click on the green button that says yes
+
+73
+00:04:14,169 --> 00:04:17,909
+I want to work on this task in by
+selecting a tile
+
+74
+00:04:17,910 --> 00:04:22,019
+you are checking it out no one else will
+be able to edit the style
+
+75
+00:04:22,019 --> 00:04:25,209
+while you are working on it once you
+have completed
+
+76
+00:04:25,209 --> 00:04:28,329
+working on the tile you will need to
+check it back in
+
+77
+00:04:28,329 --> 00:04:33,079
+so others can validate my build on your
+work well explain how to check areas
+
+78
+00:04:33,079 --> 00:04:33,800
+back in
+
+79
+00:04:33,800 --> 00:04:37,430
+shortening the task tab has a few
+additional sections
+
+80
+00:04:37,430 --> 00:04:41,930
+extra instructions information on how to
+credit your edits
+
+81
+00:04:41,930 --> 00:04:46,530
+and history I'll just ask the extra
+ensure chins will contain information
+
+82
+00:04:46,529 --> 00:04:48,119
+about the imagery
+
+83
+00:04:48,120 --> 00:04:50,410
+you're about to work with
+
+84
+00:04:50,410 --> 00:04:54,710
+highs this video if you need to and make
+sure you have correctly selected
+
+85
+00:04:54,709 --> 00:04:58,180
+a task working on a task in the ID
+
+86
+00:04:58,180 --> 00:05:02,030
+editor select ID from the editing tool
+
+87
+00:05:02,029 --> 00:05:06,508
+options this is the same editor you used
+to learn how to map
+
+88
+00:05:06,509 --> 00:05:11,180
+and OpenStreetMap this will open in new
+tab or window in your browser
+
+89
+00:05:11,180 --> 00:05:14,959
+with OpenStreetMap any ID editor and
+
+90
+00:05:14,959 --> 00:05:19,418
+the ID editor automatically load the
+high-resolution satellite imagery
+
+91
+00:05:19,418 --> 00:05:23,409
+for you to Maplin you also see a
+bounding box
+
+92
+00:05:23,410 --> 00:05:27,820
+showing you the exact area marking the
+tile you selected
+
+93
+00:05:27,819 --> 00:05:32,370
+you may need to adjust the satellite
+imagery to match with an existing map at
+
+94
+00:05:32,370 --> 00:05:32,750
+it
+
+95
+00:05:32,750 --> 00:05:37,750
+this is a very easy process simply click
+on the layers button
+
+96
+00:05:37,750 --> 00:05:42,870
+scroll down to fix alignment and use the
+arrow buttons to properly lined up the
+
+97
+00:05:42,870 --> 00:05:44,870
+high-resolution satellite imagery
+
+98
+00:05:44,870 --> 00:05:49,649
+with the existing map added you may need
+to zoom in fairly close
+
+99
+00:05:49,649 --> 00:05:53,120
+to do this once you have adjusted the
+alignment
+
+100
+00:05:53,120 --> 00:05:56,149
+it's time to start mapping adding roads
+
+101
+00:05:56,149 --> 00:06:00,489
+path buildings in areas just like you
+did when you learn to map
+
+102
+00:06:00,490 --> 00:06:05,000
+earlier for example just as you did in
+the practice
+
+103
+00:06:05,000 --> 00:06:08,300
+identify wrote by looking at 10 and
+tracing them
+
+104
+00:06:08,300 --> 00:06:11,470
+ecstatic ET when you make a map at it
+
+105
+00:06:11,470 --> 00:06:15,919
+a dialog box click here you may not know
+the specific name if they're older
+
+106
+00:06:15,918 --> 00:06:16,560
+building
+
+107
+00:06:16,560 --> 00:06:20,430
+which is okay for instance when you
+select
+
+108
+00:06:20,430 --> 00:06:23,430
+the building baton on the ID editor your
+map
+
+109
+00:06:23,430 --> 00:06:28,840
+edit is automatically tagged as a
+building remember to save after you make
+
+110
+00:06:28,839 --> 00:06:29,429
+your at it
+
+111
+00:06:29,430 --> 00:06:33,918
+this insures that your map and its are
+available to the entire world
+
+112
+00:06:33,918 --> 00:06:38,459
+we do ask that you credit your work each
+time you save your edits
+
+113
+00:06:38,459 --> 00:06:41,969
+a collection map at its are called a
+change that
+
+114
+00:06:41,970 --> 00:06:46,360
+and when you save your added you are
+essentially applying a commit
+
+115
+00:06:46,360 --> 00:06:51,050
+to the OS and database the idea editor
+what ask if you want to provide
+
+116
+00:06:51,050 --> 00:06:55,590
+commit message to your collection at
+this information will help us to
+
+117
+00:06:55,589 --> 00:06:57,978
+understand when at it was made as part
+
+118
+00:06:57,978 --> 00:07:01,129
+have napkins to credit your at it please
+click
+
+119
+00:07:01,129 --> 00:07:04,968
+back to the OpenStreetMap tasking
+manager tab in your browser
+
+120
+00:07:04,968 --> 00:07:08,870
+scroll down to the credit section in the
+task app
+
+121
+00:07:08,870 --> 00:07:13,728
+copy the provided credited click back on
+the idea editor tab
+
+122
+00:07:13,728 --> 00:07:16,949
+in your browser paste the credit in the
+commit
+
+123
+00:07:16,949 --> 00:07:21,899
+section up the dialog box you can
+possibly do. if you need to get familiar
+
+124
+00:07:21,899 --> 00:07:23,069
+with the editor
+
+125
+00:07:23,069 --> 00:07:27,009
+and the tracing you're about to do
+finishing
+
+126
+00:07:27,009 --> 00:07:30,569
+a task when you finish mapping an area
+
+127
+00:07:30,569 --> 00:07:35,610
+or simply decide to stop napping for now
+please return to the OpenStreetMap task
+
+128
+00:07:35,610 --> 00:07:36,370
+manager
+
+129
+00:07:36,370 --> 00:07:39,370
+and either unlock the task or
+
+130
+00:07:39,370 --> 00:07:42,550
+market and Stockton unlocking the task
+
+131
+00:07:42,550 --> 00:07:46,560
+means that you have done some on the map
+at it but there are more to do
+
+132
+00:07:46,560 --> 00:07:49,899
+marking the task is done means that you
+have done
+
+133
+00:07:49,899 --> 00:07:54,329
+all over the map at its possible when
+you unlock a task
+
+134
+00:07:54,329 --> 00:07:59,620
+tasking manager was asking for comment
+feel free to make whatever comments you
+
+135
+00:07:59,620 --> 00:08:00,079
+feel
+
+136
+00:08:00,079 --> 00:08:03,300
+are helpful regarding this task for
+example
+
+137
+00:08:03,300 --> 00:08:06,338
+you could indicate how much of the tiles
+complete
+
+138
+00:08:06,338 --> 00:08:09,528
+or a specific features still need work
+
+139
+00:08:09,528 --> 00:08:12,668
+if you have no comment to make simply
+write
+
+140
+00:08:12,668 --> 00:08:17,930
+no comment closing if you feel like you
+need a little more practice before
+
+141
+00:08:17,930 --> 00:08:18,778
+jumping in
+
+142
+00:08:18,778 --> 00:08:22,120
+go back to the map give learn to map
+page and watch
+
+143
+00:08:22,120 --> 00:08:25,990
+the how to map video follow along and
+practiced
+
+144
+00:08:25,990 --> 00:08:29,370
+until you feel confident enough to work
+in the task manager
+
+145
+00:08:29,370 --> 00:08:32,948
+that's it you're now a full-fledged
+matter
+
+146
+00:08:32,948 --> 00:08:36,698
+thank you for learning how to map and
+also for mapping to make a difference
+

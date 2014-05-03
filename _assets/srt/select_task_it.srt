@@ -1,0 +1,584 @@
+﻿1
+00:00:00,110 --> 00:00:04,759
+ nella scelta di un compito 
+
+2
+00:00:04,759 --> 00:00:10,929
+ dall'introduzione direttore tasking OpenStreetMap 
+
+3
+00:00:10,929 --> 00:00:14,150
+ in questo video tutorial vi mostrerà come selezionare 
+
+4
+00:00:14,150 --> 00:00:17,160
+ un compito dalla mappa dare imparare a pagina mappare 
+
+5
+00:00:17,160 --> 00:00:21,320
+ e lavorare con il task manager OpenStreetMap modo da poter iniziare la mappatura 
+
+6
+00:00:21,320 --> 00:00:25,460
+ per fare un diverso ora che sapete come mappare è il momento di mettere quelle competenze 
+
+7
+00:00:25,460 --> 00:00:26,439
+ al lavoro 
+
+8
+00:00:26,439 --> 00:00:29,730
+ come hai visto la mappatura è semplice e presto 
+
+9
+00:00:29,730 --> 00:00:33,920
+ sarete fare e sta prendendo aiutare gli altri in tutto il mondo non si può essere 
+
+10
+00:00:33,920 --> 00:00:35,100
+ familiarità con loro 
+
+11
+00:00:35,100 --> 00:00:38,429
+ o tutte le altre località in bisogno di un umanitaria 
+
+12
+00:00:38,429 --> 00:00:41,820
+ mappatura va bene si può ancora aiutare 
+
+13
+00:00:41,820 --> 00:00:45,939
+ è sufficiente osservare immagini satellitari e la traccia ha scritto 
+
+14
+00:00:45,939 --> 00:00:49,759
+ edifici di percorso e le aree nello stesso modo che hai fatto 
+
+15
+00:00:49,759 --> 00:00:53,710
+ quando si torna alla mappa non è necessario conoscere i nomi sono strade e 
+
+16
+00:00:53,710 --> 00:00:54,750
+ edifici per aiutare 
+
+17
+00:00:54,750 --> 00:00:57,820
+ tracciando si sta generando la mappa dati che sono 
+
+18
+00:00:57,820 --> 00:01:00,899
+ aperti e disponibili al mondo attraverso OpenStreetMap 
+
+19
+00:01:00,899 --> 00:01:04,719
+ un'altra cosa da notare, anche se solo si fanno 
+
+20
+00:01:04,719 --> 00:01:07,950
+ un paio di mappa alla sua task manager dovere OpenStreetMap 
+
+21
+00:01:07,950 --> 00:01:11,960
+ si stanno aiutando in modo sostanziale non vi è alcun minimo 
+
+22
+00:01:11,959 --> 00:01:17,099
+ e ogni sforzo aiuta non importa quanto piccolo, se facciamo tutti un po 'insieme 
+
+23
+00:01:17,099 --> 00:01:21,109
+ possiamo realizzare un sacco ci sono le istruzioni scritte sulla mappa give 
+
+24
+00:01:21,109 --> 00:01:21,688
+ posto 
+
+25
+00:01:21,688 --> 00:01:25,399
+ che può essere utile, come si inizia a mappare qualsiasi tasking OpenStreetMap 
+
+26
+00:01:25,400 --> 00:01:30,009
+ direttore se non ti senti a tuo agio napping Fai passare questo video 
+
+27
+00:01:30,009 --> 00:01:33,118
+ e selezionare la modalità di collegamento video tutorial 
+
+28
+00:01:33,118 --> 00:01:36,349
+ dalla mappa del sito dà tornare a questo video 
+
+29
+00:01:36,349 --> 00:01:39,819
+ una volta che si è pronti per iniziare 
+
+30
+00:01:39,819 --> 00:01:43,398
+ dalla mappa fornisce imparare a mappare pagina scroll down 
+
+31
+00:01:43,399 --> 00:01:47,140
+ essere basso il video al la sezione chiamata selezionare un'attività 
+
+32
+00:01:47,140 --> 00:01:50,140
+ in questa sezione potrete consultare un elenco 
+
+33
+00:01:50,140 --> 00:01:55,310
+ una attività di mappatura umanitarie selezionare quello che si desidera lavorare su 
+
+34
+00:01:55,310 --> 00:01:58,329
+ una volta selezionata l'operazione sia 
+
+35
+00:01:58,328 --> 00:02:03,629
+ una nuova scheda o finestra del browser aperta che vi porterà direttamente alle attività di mappatura 
+
+36
+00:02:03,629 --> 00:02:08,429
+ sul gestore tasking sito OpenStreetMap qui vi verrà chiesto di accedere 
+
+37
+00:02:08,429 --> 00:02:09,098
+ nella vostra 
+
+38
+00:02:09,098 --> 00:02:13,959
+ Conto OpenStreetMap questo è lo stesso account si è registrato nel passaggio 1 
+
+39
+00:02:13,959 --> 00:02:18,330
+ sul Mac tuo sito è imparare a mappare sezione vi sarà anche chiesto di 
+
+40
+00:02:18,330 --> 00:02:19,200
+ autorizzare 
+
+41
+00:02:19,199 --> 00:02:22,909
+ il manager tasking OpenStreetMap accesso al tuo account 
+
+42
+00:02:22,909 --> 00:02:27,219
+ per favore postula video può prendere un momento per assicurarsi che hai effettuato l'accesso 
+
+43
+00:02:27,219 --> 00:02:28,139
+ in modo non corretto 
+
+44
+00:02:28,139 --> 00:02:32,039
+ l'avvio di un'attività in 
+
+45
+00:02:32,039 --> 00:02:36,400
+ una volta che avete firmato e consentito l'accesso qui OpenStreetMap tuo account 
+
+46
+00:02:36,400 --> 00:02:39,370
+ vedrà il compito che è stato selezionato dal sito cartina dare 
+
+47
+00:02:39,370 --> 00:02:43,269
+ vedrete una mappa e alcune informazioni circa l'attività 
+
+48
+00:02:43,269 --> 00:02:47,640
+ le informazioni circa l'attività include una descrizione quanto map dare vorrebbe 
+
+49
+00:02:47,639 --> 00:02:48,729
+ di concentrarsi su 
+
+50
+00:02:48,729 --> 00:02:52,439
+ vivono a compito è quello istruzioni importanti 
+
+51
+00:02:52,439 --> 00:02:55,889
+ e cosa mappare le singole attività di mappatura 
+
+52
+00:02:55,889 --> 00:02:59,639
+ che gli utenti hanno lavorato a questo compito e alcune statistiche 
+
+53
+00:02:59,639 --> 00:03:01,109
+ sull'attività 
+
+54
+00:03:01,110 --> 00:03:05,500
+ si prega di passare questo video e familiarizzare con i test OpenStreetMap 
+
+55
+00:03:05,500 --> 00:03:08,689
+ direttore di tornare a questo video quando si è pronti 
+
+56
+00:03:08,689 --> 00:03:11,840
+ per maggiori dettagli scegliere una tessera per lavorare su 
+
+57
+00:03:11,840 --> 00:03:15,120
+ usiamo la mappa interattiva e zoom in 
+
+58
+00:03:15,120 --> 00:03:19,330
+ su piastrelle evidenziati il ​​compito è stato suddiviso in più piccoli 
+
+59
+00:03:19,330 --> 00:03:23,410
+ aree di piastrelle la mappa per consentire di fare un po di mappatura bit 
+
+60
+00:03:23,409 --> 00:03:26,689
+ piuttosto che cercare di mappare l'intera area 
+
+61
+00:03:26,689 --> 00:03:31,159
+ questo permette anche di altri su una mappa contemporaneamente altre tessere aree sono state 
+
+62
+00:03:31,159 --> 00:03:35,049
+ facendo questo in piccoli pezzi che si possono lavorare tutti 
+
+63
+00:03:35,050 --> 00:03:39,400
+ più velocemente quando si seleziona tegola si sta assumendo un compito 
+
+64
+00:03:39,400 --> 00:03:43,039
+ il vostro compito è quello di mappare che è perfetto io tracciando 
+
+65
+00:03:43,039 --> 00:03:48,879
+ piastrelle grigie immagini satellitari rappresentano tutte le attività disponibili su questo lavoro 
+
+66
+00:03:48,879 --> 00:03:52,490
+ rettili sono aree che sono state contrassegnate come eseguite 
+
+67
+00:03:52,490 --> 00:03:56,000
+ aree piastrelle verdi che sono state contrassegnate come eseguite 
+
+68
+00:03:56,000 --> 00:04:00,150
+ e sono stati anche convalidati piastrelle grigie 
+
+69
+00:04:00,150 --> 00:04:04,050
+ giallo delinea le aree che attualmente sta lavorando 
+
+70
+00:04:04,050 --> 00:04:07,130
+ cliccare su un grande farò sulla mappa per selezionata 
+
+71
+00:04:07,129 --> 00:04:11,129
+ la scheda attività aperta nella scheda attività 
+
+72
+00:04:11,129 --> 00:04:14,169
+ fare clic sul pulsante verde che dice di sì 
+
+73
+00:04:14,169 --> 00:04:17,909
+ Voglio lavorare su questo compito in selezionando una piastrella 
+
+74
+00:04:17,910 --> 00:04:22,019
+ si sta verificando fuori nessun altro sarà in grado di modificare lo stile 
+
+75
+00:04:22,019 --> 00:04:25,209
+ mentre si sta lavorando su di esso dopo aver completato 
+
+76
+00:04:25,209 --> 00:04:28,329
+ lavorando sulla tessera sarà necessario controllare di nuovo in 
+
+77
+00:04:28,329 --> 00:04:33,079
+ così gli altri possono confermare la mia generazione sul vostro lavoro bene spiegare come controllare le aree 
+
+78
+00:04:33,079 --> 00:04:33,800
+ torna in 
+
+79
+00:04:33,800 --> 00:04:37,430
+ accorciando la scheda operazione ha un paio di sezioni aggiuntive 
+
+80
+00:04:37,430 --> 00:04:41,930
+ istruzioni supplementari informazioni su come accreditare le modifiche 
+
+81
+00:04:41,930 --> 00:04:46,530
+ e la storia mi limiterò a chiedere ai garantire menti supplementari conterrà le informazioni 
+
+82
+00:04:46,529 --> 00:04:48,119
+ circa l'immaginario 
+
+83
+00:04:48,120 --> 00:04:50,410
+ si sta per lavorare con 
+
+84
+00:04:50,410 --> 00:04:54,710
+ highs questo video, se avete bisogno di e assicurarsi di aver selezionato correttamente 
+
+85
+00:04:54,709 --> 00:04:58,180
+ un compito che lavora su un compito in ID 
+
+86
+00:04:58,180 --> 00:05:02,030
+ editor di selezionare ID dalla strumento di editing 
+
+87
+00:05:02,029 --> 00:05:06,508
+ opzioni questo è lo stesso editor che hai usato per imparare come mappare 
+
+88
+00:05:06,509 --> 00:05:11,180
+ OpenStreetMap e questo aprirà in una nuova scheda o finestra nel browser 
+
+89
+00:05:11,180 --> 00:05:14,959
+ OpenStreetMap con qualsiasi editor di ID e 
+
+90
+00:05:14,959 --> 00:05:19,418
+ l'editor ID caricare automaticamente le immagini satellitari ad alta risoluzione 
+
+91
+00:05:19,418 --> 00:05:23,409
+ per voi a Maplin si vede anche un rettangolo di selezione 
+
+92
+00:05:23,410 --> 00:05:27,820
+ che vi mostra esattamente l'area che segna la tegola selezionato 
+
+93
+00:05:27,819 --> 00:05:32,370
+ potrebbe essere necessario regolare l'immagini satellitari da abbinare con una mappa esistente a 
+
+94
+00:05:32,370 --> 00:05:32,750
+ esso 
+
+95
+00:05:32,750 --> 00:05:37,750
+ questo è un processo molto semplice basta cliccare sul tasto strati 
+
+96
+00:05:37,750 --> 00:05:42,870
+ scorrere verso il basso per correggere l'allineamento e utilizzare i tasti freccia per allineati correttamente il 
+
+97
+00:05:42,870 --> 00:05:44,870
+ immagini satellitari ad alta risoluzione 
+
+98
+00:05:44,870 --> 00:05:49,649
+ con la mappa esistente aggiunto potrebbe essere necessario ingrandire abbastanza vicino 
+
+99
+00:05:49,649 --> 00:05:53,120
+ per fare questo dopo aver regolato l'allineamento 
+
+100
+00:05:53,120 --> 00:05:56,149
+ è il momento di iniziare la mappatura aggiungendo strade 
+
+101
+00:05:56,149 --> 00:06:00,489
+ edifici di percorso nelle zone proprio come hai fatto quando si impara a mappare 
+
+102
+00:06:00,490 --> 00:06:05,000
+ in precedenza per esempio come avete fatto nella pratica 
+
+103
+00:06:05,000 --> 00:06:08,300
+ identificare scritto, cercando in 10 e rintracciarli 
+
+104
+00:06:08,300 --> 00:06:11,470
+ estatico ET quando si effettua una mappa a questo 
+
+105
+00:06:11,470 --> 00:06:15,919
+ una finestra di dialogo fare clic qui non si può sapere il nome specifico se sono più vecchi 
+
+106
+00:06:15,918 --> 00:06:16,560
+ costruzione 
+
+107
+00:06:16,560 --> 00:06:20,430
+ che è bene per esempio, quando si seleziona 
+
+108
+00:06:20,430 --> 00:06:23,430
+ il testimone edificio sull'editor ID vostra mappa 
+
+109
+00:06:23,430 --> 00:06:28,840
+ modifica viene automaticamente etichettato come un edificio ricordatevi di salvare dopo aver effettuato 
+
+110
+00:06:28,839 --> 00:06:29,429
+ il vostro a esso 
+
+111
+00:06:29,430 --> 00:06:33,918
+ questo assicura che la vostra mappa e la sua sono a disposizione del mondo intero 
+
+112
+00:06:33,918 --> 00:06:38,459
+ chiediamo che si accredita il vostro lavoro ogni volta che si salva le modifiche 
+
+113
+00:06:38,459 --> 00:06:41,969
+ una mappa di raccolta a sua sono chiamati un cambiamento che 
+
+114
+00:06:41,970 --> 00:06:46,360
+ e quando si salva il aggiunto si sono essenzialmente applicando un commit 
+
+115
+00:06:46,360 --> 00:06:51,050
+ per il sistema operativo e il database l'editor idea di quello che chiederà se si desidera fornire 
+
+116
+00:06:51,050 --> 00:06:55,590
+ messaggio di commit alla vostra collezione a queste informazioni ci aiuterà a 
+
+117
+00:06:55,589 --> 00:06:57,978
+ capire quando esso è stato fatto come parte 
+
+118
+00:06:57,978 --> 00:07:01,129
+ avere tovaglioli di riaccreditare a esso cliccate 
+
+119
+00:07:01,129 --> 00:07:04,968
+ torna alla scheda direttore tasking OpenStreetMap nel tuo browser 
+
+120
+00:07:04,968 --> 00:07:08,870
+ scorrere verso il basso la sezione di credito in app compito 
+
+121
+00:07:08,870 --> 00:07:13,728
+ copiare il click accreditato fornita indietro sulla scheda Editor idea 
+
+122
+00:07:13,728 --> 00:07:16,949
+ Nel tuo browser incolla il credito nel commettere 
+
+123
+00:07:16,949 --> 00:07:21,899
+ sezione la finestra di dialogo si può eventualmente fare. se avete bisogno di abituarmi 
+
+124
+00:07:21,899 --> 00:07:23,069
+ con l'editor 
+
+125
+00:07:23,069 --> 00:07:27,009
+ e la rintracciabilità si sta per fare la rifinitura 
+
+126
+00:07:27,009 --> 00:07:30,569
+ un'attività volta completata la mappatura un'area 
+
+127
+00:07:30,569 --> 00:07:35,610
+ o semplicemente decidere di interrompere napping per ora si prega di restituire al compito OpenStreetMap 
+
+128
+00:07:35,610 --> 00:07:36,370
+ manager 
+
+129
+00:07:36,370 --> 00:07:39,370
+ e sia sbloccare il compito o 
+
+130
+00:07:39,370 --> 00:07:42,550
+ mercato e Stockton sbloccare il compito 
+
+131
+00:07:42,550 --> 00:07:46,560
+ significa che hai fatto un po 'sulla mappa a esso, ma ci sono più da fare 
+
+132
+00:07:46,560 --> 00:07:49,899
+ che segna il compito è fatto significa che avete fatto 
+
+133
+00:07:49,899 --> 00:07:54,329
+ tutta la mappa alla sua possibile quando si sblocca un compito 
+
+134
+00:07:54,329 --> 00:07:59,620
+ tasking gestore chiedeva un commento sentiti libero di fare qualunque commento che 
+
+135
+00:07:59,620 --> 00:08:00,079
+ sentire 
+
+136
+00:08:00,079 --> 00:08:03,300
+ sono utili per quanto riguarda questo compito per esempio 
+
+137
+00:08:03,300 --> 00:08:06,338
+ si potrebbe indicare la quantità delle piastrelle completo 
+
+138
+00:08:06,338 --> 00:08:09,528
+ o una specifica funzionalità ancora bisogno di lavoro 
+
+139
+00:08:09,528 --> 00:08:12,668
+ se non avete commenti da fare scrivere semplicemente 
+
+140
+00:08:12,668 --> 00:08:17,930
+ no comment chiusura se ti senti come hai bisogno di un po 'più di pratica prima 
+
+141
+00:08:17,930 --> 00:08:18,778
+ salto in 
+
+142
+00:08:18,778 --> 00:08:22,120
+ torna alla mappa dare imparare a pagina e guardare la mappa 
+
+143
+00:08:22,120 --> 00:08:25,990
+ il come mappare il video seguire e praticato 
+
+144
+00:08:25,990 --> 00:08:29,370
+ finché non si sente abbastanza sicuro per lavorare nel task manager 
+
+145
+00:08:29,370 --> 00:08:32,948
+ il gioco è fatto ora siete una questione vera e propria 
+
+146
+00:08:32,948 --> 00:08:36,698
+ grazie per imparare a mappa e anche per la mappatura a fare la differenza 
+
