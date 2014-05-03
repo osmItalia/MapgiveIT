@@ -22,7 +22,9 @@ The following people have contributed to MapgiveIT:
 
 # Italiano
 Questo repository contiene la versione in lingua italiana, tradotta ed 
-adattata, del sito [Mapgive](http://mapgive.state.gov).
+adattata, del sito [Mapgive](http://mapgive.state.gov) installata qui http://mapgive.openstreetmap.it
+
+
 
 ## Attribuzione
 Mapgive è un progetto della Humanitarian Information Unit (HIU) del
