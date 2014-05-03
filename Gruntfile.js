@@ -114,7 +114,7 @@ module.exports = function(grunt) {
             options: {
               stdout: true
             },
-            command: 'jekyll build'
+            command: 'LC_ALL="it_IT.UTF-8" jekyll build'
           },
           rmAssets: {
             options: {
