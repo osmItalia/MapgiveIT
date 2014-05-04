@@ -4,7 +4,7 @@ pygments: false
 timezone: Italy/Rome
 permalink: none
 baseurl: /
-url: http://mapgive-it-jekyll.org
+url: http://mapgive.openstreetmap.it
 destination: temp/
 
 # Explicit excludes, including dotfiles to be safe
