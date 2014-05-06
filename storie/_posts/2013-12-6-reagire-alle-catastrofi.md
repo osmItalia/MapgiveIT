@@ -2,7 +2,7 @@
 layout: story
 title: Reagire alle catastrofi, salvare vite
 person: Tyler Machado, giornalista 
-country: Philippines
+country: Filippine
 image: /assets/img/philippines-story.jpg
 altText: Le agenzie internazionali hanno coordinati i soccorsi a terra dopo il tifone Haiyan/Yolanda, nella repubblica delle Filippine, novembre 2013; alcuni eventi di mapping online a distanza hanno sostenuto il lavoro di soccorso. Foto di Andrew Robertson (SPC), US Army.
 caption: Le agenzie internazionale hanno coordinato i soccorsi a terra dopo il tifone Haiyan/Yolanda, nella repubblica delle Filippine, novembre 2013; eventi di mapping online a distanza hanno sostenuto il lavoro di soccorso. Foto di Andrew Robertson (SPC), esercito degli Stati Uniti.
@@ -42,8 +42,8 @@ o dove si trovavano prima che la tempesta li spazzasse via. La nostra squadra
 si è suddivisa il lavoro ed ognuno di noi si è occupato di un blocco di circa 
 due chilometri quadrati.
 
-Non ero sul posto, nelle Filippine; stavo lavorando con il mio portatile [...] 
-a Burlington. Mi dividendo la stanca con circa altri 20 volontari; mentre 
+Non ero sul posto, nelle Filippine; ero col mio portatile al Coworking Office
+Squared di Burlington e dividevo la sala con circa altri 20 volontari; mentre
 diverse altre centinaia erano collegati online, sparsi in tutto il mondo. Il 
 gruppo presente a Burlington includeva professionisti dei sistemi informativi 
 geografici, ma anche studenti, smanettoni locali ed altre persone senza 
@@ -73,7 +73,7 @@ modifiche e validarle nel database.
 nel mondo sviluppato, ma nelle zone rurali delle Filippine, dove Haiyan ha 
 colpito più duramente, spesso gli operatori umanitari non dispongono di mappe 
 dettagliate e complete. "La mia ipotesi è che molte delle strade primarie e 
-secondarie fossero disponibili", racconta Hegman. "Ma le strade terziarie ed i 
+secondarie fossero disponibili", racconta Hegman. "Ma le strade minori, i
 sentieri e gli edifici? Niente da fare. Questo è qualcosa che [gli operatori 
 che stavano lavorando] per il soccorso di emergenza non avrebbe mai potuto 
 avere."
