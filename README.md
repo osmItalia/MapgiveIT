@@ -2,29 +2,11 @@ MapgiveIT
 =========
 
 # English
-This repository contains the Italian translation and localization of 
-the [Mapgive](http://mapgive.state.gov) website.
-
-## Credits
-Mapgive is a project by the Humanitarian Information Unit (HIU)
-of the Department of State of the United States of America.
-
-The source code for the original website is available on the
-[Mapgive repository on Github](https://github.com/state-hiu/Mapgive).
-
-Read the [copyright info](http://www.state.gov/misc/87529.htm#copyright) for 
-the original website.
-
-### Authors
-The following people have contributed to MapgiveIT:
-* Cristian Consonni, Fondazione Bruno Kessler, Trento (TN) - Italy
-
+Brief english text can be found at the bottom of this file.
 
 # Italiano
 Questo repository contiene la versione in lingua italiana, tradotta ed 
 adattata, del sito [Mapgive](http://mapgive.state.gov) installata qui http://mapgive.openstreetmap.it
-
-
 
 ## Attribuzione
 Mapgive è un progetto della Humanitarian Information Unit (HIU) del
@@ -39,6 +21,12 @@ Il codice sorgente per il sito originale è disponibile sul
 ### Autori
 La traduzione di MapgiveIT è stata effettuata da:
 * Cristian Consonni, Fondazione Bruno Kessler, Trento (TN) - Italy
+* Simone Cortesi
+* Stefano Sabatini
+* Maurizio Napolitano
+* Leonardo Frassetto
+* Giovanni Casafico
+* Alessaandro (Zena)
 
 ## Istruzioni per lo sviluppo
 Se volete partecipare al miglioramento del sito potete 
@@ -147,3 +135,28 @@ Lo script `clean.sh` rimuove le cartelle `assets` (temporanea) e `_site`:
 ```
 ./clean.sh
 ```
+
+# English
+This repository contains the Italian translation and localization of 
+the [Mapgive](http://mapgive.state.gov) website.
+
+## Credits
+Mapgive is a project by the Humanitarian Information Unit (HIU)
+of the Department of State of the United States of America.
+
+The source code for the original website is available on the
+[Mapgive repository on Github](https://github.com/state-hiu/Mapgive).
+
+Read the [copyright info](http://www.state.gov/misc/87529.htm#copyright) for 
+the original website.
+
+### Authors
+The following people have contributed to MapgiveIT:
+* Cristian Consonni, Fondazione Bruno Kessler, Trento (TN) - Italy
+* Simone Cortesi
+* Stefano Sabatini
+* Maurizio Napolitano
+* Leonardo Frassetto
+* Giovanni Casafico
+* Alessaandro (Zena)
+
