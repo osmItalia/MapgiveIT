@@ -1482,7 +1482,7 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
     margin-left: 15px;
   }
 
-  .footer-title h2 {
+  .footer-title h2dos {
     background-position: 1005px -519px;
   }
 }
@@ -1505,10 +1505,61 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
   background-position: -203px -317px;
 }
 
+blockquote.quotecopy {
+  background: #F7F7F7;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote:before.quotecopy {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote.quotecopy p {
+  display: inline;
+}
+
+.english p {
+  background: #ccc;
+  font-size: 85%
+}
+
+.svg .docu li {
+  background-image: url("/assets/img/kml_document.svg");
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: 366px 208px;
+}
+
+.svg .media-object .docu {
+  width: 67px;
+  height: 68px;
+  margin: 0 auto;
+}
+
+.fbk {
+  background-image: url("/assets/img/logo_fbk.jpg");
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: 366px 208px;
+}
+
+
 /* Thanks to... */
 /* Sticky footer http://www.cssstickyfooter.com */
 /* Responsive YouTube embed http://avexdesigns.com/responsive-youtube-embed/ */
 
+/* ... and also to... */
+/* http://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/ */
+/* http://openclipart.org/detail/16073/document-by-kml */
+/* Added in the Italian translation */
 
 /************ Print Stylesheet *************/
 @media print {

@@ -2,11 +2,12 @@ MapgiveIT
 =========
 
 # English
-Brief english text can be found at the bottom of this file.
+A brief English description can be found at the bottom of this file.
 
 # Italiano
-Questo repository contiene la versione in lingua italiana, tradotta ed 
-adattata, del sito [Mapgive](http://mapgive.state.gov) installata qui http://mapgive.openstreetmap.it
+Questo repository contiene la versione in lingua italiana, tradotta ed
+adattata, del sito [Mapgive](http://mapgive.state.gov) installata qui
+[http://mapgive.openstreetmap.it](http://mapgive.openstreetmap.it)
 
 ## Attribuzione
 Mapgive è un progetto della Humanitarian Information Unit (HIU) del
@@ -23,10 +24,17 @@ La traduzione di MapgiveIT è stata effettuata da:
 * Cristian Consonni, Fondazione Bruno Kessler, Trento (TN) - Italy
 * Simone Cortesi
 * Stefano Sabatini
-* Maurizio Napolitano
+* Maurizio Napolitano, Fondazione Bruno Kessler, Trento (TN) - Italy
 * Leonardo Frassetto
-* Giovanni Casafico
-* Alessaandro (Zena)
+* Giovanni Cascafico
+* Alessandro (Zena)
+* Simone F. (Groppo)
+
+Un ringraziamento va anche a tutti coloro i quali hanno segnalato errori e
+refusi e in particolare alla lista
+[talk-it](https://lists.openstreetmap.org/listinfo/talk-it)
+di OpenStreetMap ed alla Humanitarian Information Unit (HIU) del Dipartimento
+di Stato degli Stati Uniti per il supporto fornito durante la traduzione.
 
 ## Istruzioni per lo sviluppo
 Se volete partecipare al miglioramento del sito potete 
@@ -155,8 +163,15 @@ The following people have contributed to MapgiveIT:
 * Cristian Consonni, Fondazione Bruno Kessler, Trento (TN) - Italy
 * Simone Cortesi
 * Stefano Sabatini
-* Maurizio Napolitano
+* Maurizio Napolitano, Fondazione Bruno Kessler, Trento (TN) - Italy
 * Leonardo Frassetto
-* Giovanni Casafico
-* Alessaandro (Zena)
+* Giovanni Cascafico
+* Alessandro (Zena)
+* Simone F. (Groppo)
 
+A special thank goes to everybody who contributed reporting bugs and misprints
+and in particular to the
+[talk-it](https://lists.openstreetmap.org/listinfo/talk-it)
+OpenStreetMap mailing list and to the Humanitarian Information Unit of the
+State Department of the United States of America for the assistance provided
+with the translation.

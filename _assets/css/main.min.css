@@ -258,10 +258,17 @@ img[src$=".svgz"].img-responsive,img[src$=".svg"].img-responsive{width:100%;}
 .footer-title h2{background-position:805px -519px;}
 }
 @media (min-width: 1200px){.opera-mini .steps .estimate .clock,.no-svg .steps .estimate .clock,.svg .steps .estimate .clock{margin-left:15px;}
-.footer-title h2{background-position:1005px -519px;}
+.footer-title h2dos{background-position:1005px -519px;}
 }
 .opera-mini.svg .globe,.opera-mini.svg .marker,.opera-mini.svg .map,.opera-mini.svg .osm,.opera-mini.svg .hot,.opera-mini.svg .dos,.opera-mini.svg .logo,.opera-mini.svg .play-button,.opera-mini.svg .steps .estimate .clock,.opera-mini.svg .social li{background-size:auto auto;}
 .opera-mini.svg .site-logo.white .logo{background-size:auto auto;background-position:-203px -317px;}
+blockquote.quotecopy{background:#f7f7f7;border-left:10px solid #ccc;margin:1.5em 10px;padding:.5em 10px;quotes:"\201C" "\201D" "\2018" "\2019";}
+blockquote:before.quotecopy{color:#ccc;content:open-quote;font-size:4em;line-height:.1em;margin-right:.25em;vertical-align:-0.4em;}
+blockquote.quotecopy p{display:inline;}
+.english p{background:#ccc;font-size:85%;}
+.svg .docu li{background-image:url(/assets/img/kml_document.svg);background-repeat:no-repeat;background-position:0 0;background-size:366px 208px;}
+.svg .media-object .docu{width:67px;height:68px;margin:0 auto;}
+.fbk{background-image:url(/assets/img/logo_fbk.jpg);background-repeat:no-repeat;background-position:0 0;background-size:366px 208px;}
 @media print{*{background:transparent!important;color:#000!important;box-shadow:none!important;text-shadow:none!important;}
 a,a:visited{text-decoration:underline;}
 a[href]:after{content:"";}
