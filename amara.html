@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html> <!--<![endif]-->
+  <head>
+    <title>Video</title>
+  </head>
+  <body>
+      <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+      <script>
+        var parent_video = $(window.frameElement).closest('.video');
+        var embed_width = parent_video.width();
+        var embed_height = parent_video.height();
+        var embed_videoid = $(window.frameElement).parent().attr('data');
+      </script>
+      <script type="text/javascript" src="http://s3.amazonaws.com/s3.www.universalsubtitles.org/embed.js">
+      ({
+        "base_state": {"language": "it"}, 
+        "video_url": "http://www.youtube.com/watch?v=" + embed_videoid,
+        "video_config": {
+            width: embed_width,
+            height: embed_height,
+            autoplay: 1,
+            fs: 0,
+            rel: 0,
+            showinfo: 0,
+            modestbranding: 1,
+            html5: 1
+         }
+      })
+      </script>
+  </body>
+</html>

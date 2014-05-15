@@ -88,17 +88,20 @@
             modestbranding: 1,
             html5: 1
           },
-          baseurl = 'http://www.youtube.com/embed/',
+          baseurl = '/amara.html',
           videoId = _this.attr('data'),
           param = $.param(params),
-          url = baseurl + videoId + '?' + param,
+          url = baseurl,
           code = $('<iframe />', {
             frameborder: '0',
-            allowfullscreen: 'true',
+            seamless: '1',
+            marginheight: "0",
+            marginwidth: "0",
+            scrolling: "no",
             src: url
           });
 
-      _this.children().remove()
+      _this.children().remove();
       _this.append(code);
       _this.css('padding-bottom', '56.25%');
     }
