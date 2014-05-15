@@ -1,708 +1,153 @@
-﻿1
-00:00:00,110 --> 00:00:04,009
- in 
+1
+00:00:03,868 --> 00:00:06,860
+Narratore: "Nel 2010, dopo un terremoto ad Haiti,
 
 2
-00:00:04,009 --> 00:00:11,009
- imparare a mappa e OpenStreetMap introduzione 
+00:00:06,939 --> 00:00:09,848
+i volontari online sono entrati a far parte di un movimento
 
 3
-00:00:11,058 --> 00:00:14,199
- Non dare campagna ti dà una comprensione up perché 
+00:00:09,888 --> 00:00:12,716
+che sta creando una mappa digitale libera e aperta del mondo."
 
 4
-00:00:14,199 --> 00:00:17,660
- dati della mappa aperta è importante per la gente di tutto il mondo 
+00:00:12,806 --> 00:00:16,955
+Mikel Maron: "In un'emergenza si ha bisogno dei dati, da ovunque provengano."
 
 5
-00:00:17,660 --> 00:00:21,429
- e perché si dovrebbe investire il vostro tempo per contribuire a creare la mappa dei dati 
+00:00:16,955 --> 00:00:20,018
+Justine MacKinnon: "È importante che l'informazione sia aperta e disponibile a tutti,
 
 6
-00:00:21,429 --> 00:00:24,550
- on-line per OpenStreetMap da verso un 
+00:00:20,188 --> 00:00:23,481
+perché in alcune situazioni non sappiamo cosa succederà."
 
 7
-00:00:24,550 --> 00:00:27,400
- il task manager OpenStreetMap 
+00:00:25,011 --> 00:00:27,015
+"È una sorpresa."
 
 8
-00:00:27,399 --> 00:00:30,828
- i luoghi più bisognosi aperto creazione della mappa dei dati 
+00:00:28,075 --> 00:00:30,095
+Narratore: "Cos'è il mapping a distanza?
 
 9
-00:00:30,829 --> 00:00:34,109
- forse luoghi che non sei mai stato a voi va bene così 
+00:00:30,143 --> 00:00:36,357
+Shadrock Roberts: "La mappatura a distanza è una sorta di nuovo ed interessante fenomeno che è cominciato nel 2010 ad Haiti. "
 
 10
-00:00:34,109 --> 00:00:37,448
- si può fare una grande differenza, semplicemente trattando strade 
+00:00:36,357 --> 00:00:42,491
+"Abbiamo visto una spinta reale da parte dei volontari on-line che hanno aiutato a creare dati cartografici dove prima non esistevano"
 
 11
-00:00:37,448 --> 00:00:40,599
- edifici e altre caratteristiche che si possono avvistare facilmente 
+00:00:42,491 --> 00:00:47,029
+Narratore: "I dati cartografici aiutano gli sforzi umanitari, non solo in una catastrofe."
 
 12
-00:00:40,600 --> 00:00:44,070
- da immagini satellitari quello che in questo video tutorial 
+00:00:47,029 --> 00:00:53,293
+"Aiutano anche comunità come Kibera a Nairobi, in Kenya a preparare, sviluppare e rispondere alle esigenze a livello locale."
 
 13
-00:00:44,070 --> 00:00:47,698
- vi mostrerà come mappare in OpenStreetMap vedete si può iniziare a creare 
+00:00:53,293 --> 00:00:57,358
+"È un lavoro molto grande e non tutti i luoghi sono mappati come crediamo."
 
 14
-00:00:47,698 --> 00:00:51,549
- dati della mappa aperti pas questo video ogni volta che avete bisogno di voi 
+00:00:57,653 --> 00:01:07,609
+Kepha Ngito: "Lo sviluppo o la creazione di dati è un enorme passo avanti nel processo per cambiare le cose. E questo è il momento in cui le mappe diventano molto utili".
 
 15
-00:00:51,549 --> 00:00:56,109
- e praticare quello che hai appena atterrate si possono anche trovare scritto istruzioni dettagliate 
+00:01:07,650 --> 00:01:10,799
+Dale Kunce: "Quando il tifone ha colpito ci siamo resi conto non c'erano buone mappe delle Filippine.
 
 16
-00:00:56,109 --> 00:00:59,420
- nella fase 2 sulla mappa dare imparare a pagina mappare 
+00:01:10,799 --> 00:01:16,198
+Era necessario mapparle in modo tale che i nostri operatori sapessero dove andare e cosa avrebbero trovato giunti sul luogo.
 
 17
-00:00:59,420 --> 00:01:04,170
- prima di iniziare imparare come mappare assicurarsi di aver impostato e 
+00:01:16,198 --> 00:01:22,588
+Così abbiamo collaborato con l'Humanitarian OpenStreetMap Team per aiutarli ed aiutarci a costruire una mappa di base delle Filippine."
 
 18
-00:01:04,170 --> 00:01:05,820
- Conto OpenStreetMap 
+00:01:23,448 --> 00:01:26,526
+Narratore: "Pensate ad OpenStreetMap come a Wikipedia, per le mappe."
 
 19
-00:01:05,819 --> 00:01:08,899
- potete trovare le istruzioni su come farlo nel passaggio 1 
+00:01:26,562 --> 00:01:32,711
+Mikel Maron: "OpenStreetMap è una mappa libera ed aperta di tutto il mondo ed è principalmente curata da volontari. "
 
 20
-00:01:08,900 --> 00:01:13,520
- su una mappa dare imparare a pagina mappare se non hai firmato per OpenStreetMap 
+00:01:32,711 --> 00:01:38,140
+"Tutto ciò che viene creato è un bene comune ed è completamente aperto e disponibile per chiunque voglia contribuire e per chiunque lo voglia utilizzare. "
 
 21
-00:01:13,519 --> 00:01:14,560
- ancora un account 
+00:01:38,140 --> 00:01:39,821
+Narratore: "In quale modo i volontari danno il loro contributo?"
 
 22
-00:01:14,560 --> 00:01:18,519
- per favore postula il video adesso e così può tornare qui 
+00:01:39,846 --> 00:01:47,373
+Shadrock Roberts: "Il modo in cui un volontario può aiutare è guardare le immagini satellitari e individuare diversi oggetti predefiniti e dicendo:"
 
 23
-00:01:18,519 --> 00:01:20,950
- per continuare il tutorial 
+00:01:47,393 --> 00:01:50,269
+"«Ok, riesco a vedere una casa posso rintracciare i bordi della casa.
 
 24
-00:01:20,950 --> 00:01:24,799
- una volta impostato il vostro account di OpenStreetMap la multa può davvero cominciare 
+00:01:50,273 --> 00:01:56,033
+Vedo una strada, posso tracciare la linea di quella strada.
+Vedo un bosco, posso tracciare il contorno di quella foresta".
 
 25
-00:01:24,799 --> 00:01:28,689
- si sta per imparare le tre cose principali è possibile mappare in OpenStreetMap 
+00:01:56,033 --> 00:02:01,140
+Narratore: "MapGive vuole rendere più facile ai nuovi volontari on-line a fare i primi passi
 
 26
-00:01:28,689 --> 00:01:32,129
- punti utilizzano per commercializzare linee di posto 
+00:02:01,140 --> 00:02:06,417
+aiutandoli a costruire una mappa libera ed aperta del mondo e diventando operatori umanitari digitali".
 
 27
-00:01:32,129 --> 00:01:35,140
- usato per marcare Rodi impasse nelle aree 
+00:02:06,417 --> 00:02:08,639
+Narratore: "Impara a mappare in tre passi.
 
 28
-00:01:35,140 --> 00:01:38,629
- usato per marcare i contorni a campi edifici per qualsiasi 
+00:02:08,652 --> 00:02:16,029
+Crea un account su OpenStreetMap. Fai pratica con la mappatura. Poi, scegli un compito sul sito di MapGive.
 
 29
-00:01:38,629 --> 00:01:42,739
- altra grande area, come vedrete presto mappatura è facile 
+00:02:16,029 --> 00:02:20,835
+Imparerai le competenze per creare la mappa ... quello che farai aiuterà le comunità di tutto il mondo".
 
 30
-00:01:42,739 --> 00:01:46,309
- e lo si può fare da qualsiasi parte del mondo, anche in luoghi 
+00:02:20,835 --> 00:02:27,334
+Joshua Campbell: "Il valore dei dati geografici creati in OpenStreetMap per le risposte umanitarie è già stato significativo.
 
 31
-00:01:46,310 --> 00:01:49,530
- che non sei mai stato a voi dei nostri prossimi passi 
+00:02:27,334 --> 00:02:35,937
+La quantità di informazioni che è stata prodotta e il servizio che ha reso alla comunità umanitaria è stato un cambio di paradigma per le risposte umanitarie".
 
 32
-00:01:49,530 --> 00:01:52,659
- guarderà OpenStreetMap e diventare più familiarità con esso 
+00:02:35,937 --> 00:02:39,773
+Dale Kunce: "Per la risposta al tifone [Haynan] abbiamo ricevuto l'aiuto di circa 1600 volontari
 
 33
-00:01:52,659 --> 00:01:55,939
- si compositi per l'OEC qualsiasi punto di rivedere 
+00:02:39,773 --> 00:02:45,359
+che hanno creato qualcosa come 4,5 milioni di modifiche alla mappa di base per le sole Filippine.
 
 34
-00:01:55,939 --> 00:02:00,149
- e in pratica quello che hai imparato lungo la strada panoramica OpenStreetMap 
+00:02:45,359 --> 00:02:55,185
+E quei 1600 volontari rappresentano circa 3-4 anni di mappatura dedicata che una persona sarebbe in grado di fare".
 
 35
-00:02:00,150 --> 00:02:03,930
- per iniziare si accede a OpenStreetMap 
+00:02:55,185 --> 00:03:00,161
+Narratore: "Ci chiediamo: cosa succederebbe se ci fossero più mappatori online?"
 
 36
-00:02:03,930 --> 00:02:07,890
- una volta effettuato il login si vedrà mappa a destra della mappa 
+00:03:00,299 --> 00:03:07,045
+Joshua Campbell: "Che succederebbe se avessimo dieci volte il numero di volontari,
+50 volte il numero di volontari?
 
 37
-00:02:07,890 --> 00:02:11,780
- I controlli sugli si consumano in zoom out 
+00:03:07,065 --> 00:03:12,611
+Quante aree potremmo mappare? Quanto bene si potrebbe fare in questo processo?"
 
 38
-00:02:11,780 --> 00:02:16,539
- e la tua posizione corrente sulla mappa è possibile selezionare anche tra gli strati 
-
-39
-00:02:16,539 --> 00:02:21,699
- visualizzare la quota map tasto cartina Sono un commento su una particolare sezione 
-
-40
-00:02:21,699 --> 00:02:26,469
- pas questo video login e prendere un momento per individuare le caratteristiche pezzo 
-
-41
-00:02:26,469 --> 00:02:30,199
- OpenStreetMap può tornare qui per imparare a cercare 
-
-42
-00:02:30,199 --> 00:02:34,009
- a presto e in OpenStreetMap ricerca OpenStreetMap 
-
-43
-00:02:34,009 --> 00:02:37,060
- è facile sul lato sinistro dello schermo è una ricerca 
-
-44
-00:02:37,060 --> 00:02:40,800
- ricerca zona per qualsiasi località nel mondo che ti piace 
-
-45
-00:02:40,800 --> 00:02:44,290
- semplicemente digitare il percorso e una nuova mappa della zona 
-
-46
-00:02:44,289 --> 00:02:49,329
- selezionato verrà visualizzato per ora avete solo bisogno di sapere come ingrandire e 
-
-47
-00:02:49,330 --> 00:02:50,690
- zoom out sulla mappa 
-
-48
-00:02:50,689 --> 00:02:53,959
- utilizza due bottoni min sul lato destro dello schermo 
-
-49
-00:02:53,959 --> 00:02:58,340
- ed esaminare la mappa che dovrebbe essere in grado di vedere i tre principali elementi di un pisolino 
-
-50
-00:02:58,340 --> 00:03:03,099
- punti linee in aree pas questo video 
-
-51
-00:03:03,099 --> 00:03:06,599
- e prendere un momento per praticare che è si l'uomo e l'ingrandimento pulsanti 
-
-52
-00:03:06,599 --> 00:03:09,859
- il campo di ricerca e le tre principali elementi alla mappa 
-
-53
-00:03:09,860 --> 00:03:13,239
- punti linee in aree tornano 
-
-54
-00:03:13,239 --> 00:03:17,530
- per imparare a creare punti di linee in aree come modificare 
-
-55
-00:03:17,530 --> 00:03:20,550
- OpenStreetMap per creare punti 
-
-56
-00:03:20,550 --> 00:03:24,590
- Aree Linee di OpenStreetMap, cliccare sul menu a discesa 
-
-57
-00:03:24,590 --> 00:03:30,250
- fila accanto alla parola in discesa un percorso vi darà alcune opzioni 
-
-58
-00:03:30,250 --> 00:03:34,109
- selezionare ad essa con ID editor del browser 
-
-59
-00:03:34,109 --> 00:03:39,180
- ci sono diversi modi per modificare e creare la mappa dei dati OpenStreetMap 
-
-60
-00:03:39,180 --> 00:03:42,480
- per ora l'ID nell'editor del browser 
-
-61
-00:03:42,479 --> 00:03:46,530
- è il più facile da usare perché non dovrete scaricare nulla per usarlo 
-
-62
-00:03:46,530 --> 00:03:50,810
- si apre semplicemente nel vostro browser Internet dopo aver selezionato 
-
-63
-00:03:50,810 --> 00:03:54,319
- ad essa con ID editor browser dal menu a discesa 
-
-64
-00:03:54,319 --> 00:03:58,590
- l'editor ID aprire sarete in grado di creare dati della mappa 
-
-65
-00:03:58,590 --> 00:04:03,620
- con l'aggiunta di punti di linee in aree per favore mettere in pausa il video ora 
-
-66
-00:04:03,620 --> 00:04:07,289
- aprire l'ID nell'editor browser dal menu a discesa 
-
-67
-00:04:07,289 --> 00:04:11,939
- e poi tornare per continuare nella parte superiore dell'editor idea sono i principali 
-
-68
-00:04:11,939 --> 00:04:12,810
- controlli 
-
-69
-00:04:12,810 --> 00:04:15,920
- è possibile selezionare quale azione vuoi eseguire 
-
-70
-00:04:15,919 --> 00:04:19,649
- mappare una linea punto o una zona 
-
-71
-00:04:19,649 --> 00:04:23,668
- i pulsanti per andare avanti e indietro risparmiare sono anche in cima 
-
-72
-00:04:23,668 --> 00:04:27,680
- facendo clic su Salva dopo aver effettuato una modifica di OpenStreetMap 
-
-73
-00:04:27,680 --> 00:04:33,400
- le modifiche apportate dal vivo al mondo intero ricordati di colpire risparmiare molto 
-
-74
-00:04:33,399 --> 00:04:36,560
- c'è anche una finestra di dialogo a sinistra della mappa 
-
-75
-00:04:36,560 --> 00:04:40,720
- Questa finestra di dialogo dove sarà possibile inserire informazioni sul 
-
-76
-00:04:40,720 --> 00:04:41,320
- punti 
-
-77
-00:04:41,319 --> 00:04:46,629
- linee e aree che mappati va bene se non si conosce il nome del luogo 
-
-78
-00:04:46,629 --> 00:04:51,149
- Strada o zona appena marcatura sulla mappa cosicché i dati 
-
-79
-00:04:51,149 --> 00:04:54,579
- è molto utile per gli altri che possono aggiungere in modo più dettagliato 
-
-80
-00:04:54,579 --> 00:04:58,668
- si prega di mettere in pausa il video per un attimo e prendere confidenza con i vari pulsanti 
-
-81
-00:04:58,668 --> 00:05:02,539
- qualsiasi editor di ID walkthrough a destra della mappa 
-
-82
-00:05:02,540 --> 00:05:05,800
- Pulsante c'è un aiuto è possibile fare clic su di esso in qualsiasi momento 
-
-83
-00:05:05,800 --> 00:05:10,210
- Per vedere le informazioni importanti risposte alle domande che si potrebbero avere sulla 
-
-84
-00:05:10,209 --> 00:05:10,659
- ID 
-
-85
-00:05:10,660 --> 00:05:15,419
- montaggio c'è anche un walk-through che vi guiderà attraverso il processo 
-
-86
-00:05:15,418 --> 00:05:18,948
- editing e OpenStreetMap è possibile selezionare la procedura dettagliata 
-
-87
-00:05:18,949 --> 00:05:22,680
- tutte le volte che vuoi avrete completato la procedura dettagliata 
-
-88
-00:05:22,680 --> 00:05:26,590
- in OpenStreetMap quando ti sei iscritto per un account e l'accesso per la prima volta 
-
-89
-00:05:26,589 --> 00:05:30,149
- se non l'hai già si consiglia si possiede 
-
-90
-00:05:30,149 --> 00:05:33,849
- video e passare attraverso a piedi attraverso iniziare 
-
-91
-00:05:33,850 --> 00:05:37,570
- una volta completato il cammino si nell'editor ID 
-
-92
-00:05:37,569 --> 00:05:41,069
- sarà ancora aperta a continuare con questo tutorial video 
-
-93
-00:05:41,069 --> 00:05:45,199
- è necessario scegliere in zona per praticare napping in qualsiasi posto nel mondo sarà 
-
-94
-00:05:45,199 --> 00:05:45,699
- lavoro 
-
-95
-00:05:45,699 --> 00:05:49,810
- e non c'è bisogno di scegliere un posto sei stato a voi o non bene 
-
-96
-00:05:49,810 --> 00:05:53,280
- una zona con pochi dati mappa esistente è meglio 
-
-97
-00:05:53,279 --> 00:05:56,819
- in modo da provare a praticare in un luogo che non è una grande città 
-
-98
-00:05:56,819 --> 00:06:01,279
- zona sono fortemente sviluppate naturalmente siete invitati a praticare il non essere in 
-
-99
-00:06:01,279 --> 00:06:03,309
- una zona che sei un no 
-
-100
-00:06:03,310 --> 00:06:07,839
- questo può essere più facile per voi per iniziare fino a quando sei mappatura confortevole 
-
-101
-00:06:07,839 --> 00:06:11,419
- come fare un punto e OpenStreetMap di 
-
-102
-00:06:11,420 --> 00:06:14,680
- per mappare un punto nell'editor OpenStreetMap ID 
-
-103
-00:06:14,680 --> 00:06:19,069
- è sufficiente fare clic sul pulsante punto in alto a sinistra la mappa 
-
-104
-00:06:19,069 --> 00:06:22,639
- esso diventerà blu per farvi sapere che è stato selezionato 
-
-105
-00:06:22,639 --> 00:06:26,449
- quindi è sufficiente fare clic su una posizione nella mappa dove c'è un edificio 
-
-106
-00:06:26,449 --> 00:06:30,069
- o apparirà zona che vuoi definire un nodo 
-
-107
-00:06:30,069 --> 00:06:33,790
- e anche una finestra di dialogo 
-
-108
-00:06:33,790 --> 00:06:39,080
- con la serie di opzioni descrittivi per inserire appariranno a sinistra della mappa 
-
-109
-00:06:39,079 --> 00:06:43,139
- se si conosce il nome dell'edificio o area o dettagli aggiuntivi 
-
-110
-00:06:43,139 --> 00:06:48,339
- puoi inserire qui quando si monta aree che non sei mai stato ad essere quattro 
-
-111
-00:06:48,339 --> 00:06:51,389
- molto probabilmente non conoscere i nomi a edifici strade 
-
-112
-00:06:51,389 --> 00:06:55,300
- in aree che è OK troppo semplice punto di marcatura 
-
-113
-00:06:55,300 --> 00:06:59,879
- è un grande aiuto, una volta terminata l'aggiunta di dettagli collegati al nodo 
-
-114
-00:06:59,879 --> 00:07:03,069
- è possibile chiudere la finestra di dialogo facendo clic sul ATX 
-
-115
-00:07:03,069 --> 00:07:06,899
- in cima raddrizzato se è necessario modificare il nodo 
-
-116
-00:07:06,899 --> 00:07:10,879
- è sufficiente fare clic su di esso di nuovo e la finestra di dialogo si aprirà 
-
-117
-00:07:10,879 --> 00:07:15,209
- cancellare e non che non è corretto o è stato creato per errore 
-
-118
-00:07:15,209 --> 00:07:19,370
- clicca su una lattina sull'icona del cestino apparirà accanto ad essa 
-
-119
-00:07:19,370 --> 00:07:23,250
- cliccare sul cestino e il nodo verrà rimossa ricordare 
-
-120
-00:07:23,250 --> 00:07:27,560
- se mai necessario fare un passo indietro di qualche modifiche cliccare sulla freccia indietro 
-
-121
-00:07:27,560 --> 00:07:31,420
- in alto l'editor è inoltre possibile passo avanti questione nella 
-
-122
-00:07:31,420 --> 00:07:34,759
- con l'attaccante un'icona fila ricordare 
-
-123
-00:07:34,759 --> 00:07:39,219
- per salvare spesso si prega di passare questo video e prendere un momento per praticare la mappatura 
-
-124
-00:07:39,220 --> 00:07:40,260
- nominare 
-
-125
-00:07:40,259 --> 00:07:43,769
- ritorno a questo video quando si è pronti ad imparare come mappare 
-
-126
-00:07:43,769 --> 00:07:47,319
- allineare come montare una linea e OpenStreetMap 
-
-127
-00:07:47,319 --> 00:07:51,529
- proprio come si sceglie un appuntamento prima ora cliccando sulla linea, ma 
-
-128
-00:07:51,529 --> 00:07:54,759
- nella parte superiore dell'editor OpenStreetMap ID 
-
-129
-00:07:54,759 --> 00:07:58,680
- sarà anche diventerà blu per farvi sapere che è stato selezionato 
-
-130
-00:07:58,680 --> 00:08:04,000
- Ora clicca su una posizione sulla mappa apparirà un puntino collegato ad allineare 
-
-131
-00:08:04,000 --> 00:08:07,620
- fare clic su un altro punto della mappa e apparirà un altro punto 
-
-132
-00:08:07,620 --> 00:08:12,449
- e la linea collegherà questi due punti è possibile continuare a disegnare 
-
-133
-00:08:12,449 --> 00:08:13,349
- più punti 
-
-134
-00:08:13,350 --> 00:08:16,810
- per stabilire la linea o doppio clic sull'ultimo punto 
-
-135
-00:08:16,810 --> 00:08:19,990
- per terminare l'essiccazione la linea la linea si chiude rossa 
-
-136
-00:08:19,990 --> 00:08:24,600
- per farvi sapere che è stata creata una finestra di dialogo si aprirà a fianco di 
-
-137
-00:08:24,600 --> 00:08:25,000
- mappa 
-
-138
-00:08:25,000 --> 00:08:28,939
- Editor è possibile specificare se la linea è una strada 
-
-139
-00:08:28,939 --> 00:08:32,740
- Fiume percorso per tutte le altre opzioni numero 
-
-140
-00:08:32,740 --> 00:08:37,180
- si può essere molto specifica o generale, a seconda di ciò che si può determinare da 
-
-141
-00:08:37,179 --> 00:08:38,658
- le immagini satellitari 
-
-142
-00:08:38,658 --> 00:08:43,179
- per modificare la linea che è già stato creato è sufficiente fare clic su di esso 
-
-143
-00:08:43,179 --> 00:08:47,588
- la finestra di dialogo si aprirà accanto al direttore insieme sull'icona del cestino 
-
-144
-00:08:47,589 --> 00:08:51,980
- accanto alla linea fare clic su Salva per assicurarsi che ci sei vengono registrati nel 
-
-145
-00:08:51,980 --> 00:08:54,350
- OpenStreetMap base di dati 
-
-146
-00:08:54,350 --> 00:08:58,579
- si prega di passare questo video e prendere un momento per praticare la mappatura della linea 
-
-147
-00:08:58,578 --> 00:09:03,278
- ritorno a questo video quando si è pronti ad imparare per mappare un territorio 
-
-148
-00:09:03,278 --> 00:09:08,088
- come mappare in zona OpenStreetMap in una zona che può fare un parco 
-
-149
-00:09:08,089 --> 00:09:12,810
- un edificio a lago una foresta o qualsiasi altro numero di cose 
-
-150
-00:09:12,809 --> 00:09:17,319
- spetta a voi per definire sulla mappa proprio come con punti e linee 
-
-151
-00:09:17,320 --> 00:09:20,360
- fare clic sul pulsante area nella parte superiore dell'editor 
-
-152
-00:09:20,360 --> 00:09:23,829
- esso diventerà blu per farvi sapere che è stato selezionato 
-
-153
-00:09:23,828 --> 00:09:27,708
- una volta che hai fatto selezionare i bordi e l'edificio nostra funzione che si desidera 
-
-154
-00:09:27,708 --> 00:09:28,859
- bene 
-
-155
-00:09:28,860 --> 00:09:32,129
- basta cliccare sugli angoli qualsiasi editor riempirà lo spazio 
-
-156
-00:09:32,129 --> 00:09:35,528
- in mezzo, una volta pienamente delineato quello che vuoi 
-
-157
-00:09:35,528 --> 00:09:39,409
- doppio clic sull'ultimo punto creato per completare la zona 
-
-158
-00:09:39,409 --> 00:09:43,299
- l'area diventerà rosso per farvi sapere che è stato creato 
-
-159
-00:09:43,299 --> 00:09:46,299
- in una finestra di dialogo apparirà 
-
-160
-00:09:46,299 --> 00:09:50,949
- accanto al editor di mappe e consentono di etichettare la zona appena definito 
-
-161
-00:09:50,950 --> 00:09:54,150
- ci sono numerose opzioni e si può essere più specifici 
-
-162
-00:09:54,149 --> 00:09:58,209
- o generale, come ti piace a seconda di quali informazioni si sa 
-
-163
-00:09:58,210 --> 00:10:03,250
- ancora una volta è bene se non si conosce a nome specifico nella zona 
-
-164
-00:10:03,250 --> 00:10:06,710
- è possibile lasciare vuota questa sezione, come è molto probabile che non si conosce l'esatta 
-
-165
-00:10:06,710 --> 00:10:09,430
- I nomi alle aree che vengono mappati 
-
-166
-00:10:09,429 --> 00:10:13,329
- proprio come etichetta quello che si può vedere dalle immagini satellitari, come un lago 
-
-167
-00:10:13,330 --> 00:10:17,650
- o la costruzione di quello che ricordate sempre anche a colpire salvare 
-
-168
-00:10:17,649 --> 00:10:20,850
- nella parte superiore dell'editor favore passare questo video 
-
-169
-00:10:20,850 --> 00:10:24,700
- e prendere un momento per praticare chiusura mappatura 
-
-170
-00:10:24,700 --> 00:10:28,740
- questo è tutto che è tutto quello che serve per avviare la mappatura e OpenStreetMap 
-
-171
-00:10:28,740 --> 00:10:33,379
- una volta che si preme salvare il vostro Nelle nostre vite e parcheggiare alla base dati di OpenStreetMap 
-
-172
-00:10:33,379 --> 00:10:36,700
- che è immediatamente disponibile a chiunque nel mondo 
-
-173
-00:10:36,700 --> 00:10:40,150
- una volta che si sente la mappatura sicuri continuare al video successivo 
-
-174
-00:10:40,149 --> 00:10:47,149
- per imparare a scegliere un'attività dal task manager OpenStreetMap 
-
-175
-00:10:48,659 --> 00:10:51,429
- di 
-
-176
-00:10:51,429 --> 00:10:55,488
- e 
-
-177
-00:10:55,489 --> 00:10:55,739
- andare 
-
+00:03:12,611 --> 00:03:17,239
+Narratore: "Scopriamo quanto bene possiamo fare. Mappa oggi ".

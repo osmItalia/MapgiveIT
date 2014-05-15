@@ -1,584 +1,655 @@
-﻿1
-00:00:00,110 --> 00:00:04,759
- nella scelta di un compito 
+1
+00:00:03,500 --> 00:00:07,260
+Come selezionare un compito nel gestore di task di OpenStreetMap
 
 2
-00:00:04,759 --> 00:00:10,929
- dall'introduzione direttore tasking OpenStreetMap 
+00:00:09,300 --> 00:00:11,020
+Introduzione
 
 3
-00:00:10,929 --> 00:00:14,150
- in questo video tutorial vi mostrerà come selezionare 
+00:00:11,020 --> 00:00:14,860
+In questo video tutorial, ti mostreremo come selezionare un'attività
 
 4
-00:00:14,150 --> 00:00:17,160
- un compito dalla mappa dare imparare a pagina mappare 
+00:00:14,860 --> 00:00:17,300
+dalla pagina di MapGive "Impara a mappare"
 
 5
-00:00:17,160 --> 00:00:21,320
- e lavorare con il task manager OpenStreetMap modo da poter iniziare la mappatura 
+00:00:17,300 --> 00:00:20,000
+e come usare il gestore dei task di OpenStreetMap
 
 6
-00:00:21,320 --> 00:00:25,460
- per fare un diverso ora che sapete come mappare è il momento di mettere quelle competenze 
+00:00:20,000 --> 00:00:22,540
+in modo che tu possa iniare a mappare ed a dare il tuo contributo.
 
 7
-00:00:25,460 --> 00:00:26,439
- al lavoro 
+00:00:22,540 --> 00:00:24,300
+Ora che sai come mappare
 
 8
-00:00:26,439 --> 00:00:29,730
- come hai visto la mappatura è semplice e presto 
+00:00:24,300 --> 00:00:26,460
+è il momento di mettere queste competenze al lavoro.
 
 9
-00:00:29,730 --> 00:00:33,920
- sarete fare e sta prendendo aiutare gli altri in tutto il mondo non si può essere 
+00:00:26,720 --> 00:00:28,880
+Come hai già visto, mappare è facile
 
 10
-00:00:33,920 --> 00:00:35,100
- familiarità con loro 
+00:00:28,880 --> 00:00:30,700
+e presto potrai fare delle modifiche
 
 11
-00:00:35,100 --> 00:00:38,429
- o tutte le altre località in bisogno di un umanitaria 
+00:00:30,700 --> 00:00:32,840
+che possono aiutare altre persone in tutto il mondo.
 
 12
-00:00:38,429 --> 00:00:41,820
- mappatura va bene si può ancora aiutare 
+00:00:33,200 --> 00:00:39,140
+Potresti non conoscere i luoghi che hanno bisogno di essere mappati per scopi umanitari.
 
 13
-00:00:41,820 --> 00:00:45,939
- è sufficiente osservare immagini satellitari e la traccia ha scritto 
+00:00:39,400 --> 00:00:41,880
+Ma non c'è problema! Può dare una mano lo stesso.
 
 14
-00:00:45,939 --> 00:00:49,759
- edifici di percorso e le aree nello stesso modo che hai fatto 
+00:00:42,380 --> 00:00:44,840
+Hai semplicemente bisogno di guardare le immagini satellitari
 
 15
-00:00:49,759 --> 00:00:53,710
- quando si torna alla mappa non è necessario conoscere i nomi sono strade e 
+00:00:44,840 --> 00:00:48,380
+e tracciare strade, sentieri, edifici ed aree
 
 16
-00:00:53,710 --> 00:00:54,750
- edifici per aiutare 
+00:00:48,380 --> 00:00:51,300
+nello stesso modo che hai visto prima quando stavi imparando a mappare.
 
 17
-00:00:54,750 --> 00:00:57,820
- tracciando si sta generando la mappa dati che sono 
+00:00:51,520 --> 00:00:54,880
+Non è necessario conoscere i nomi delle strade e degli edifici per aiutare.
 
 18
-00:00:57,820 --> 00:01:00,899
- aperti e disponibili al mondo attraverso OpenStreetMap 
+00:00:54,880 --> 00:00:57,780
+Tracciando le immagini satellitari si generano dati cartografici
 
 19
-00:01:00,899 --> 00:01:04,719
- un'altra cosa da notare, anche se solo si fanno 
+00:00:57,780 --> 00:01:01,000
+aperti e disponibili al mondo intero attraverso OpenStreetMap.
 
 20
-00:01:04,719 --> 00:01:07,950
- un paio di mappa alla sua task manager dovere OpenStreetMap 
+00:01:01,680 --> 00:01:03,340
+Un'altro aspetto che vale la pena notare:
 
 21
-00:01:07,950 --> 00:01:11,960
- si stanno aiutando in modo sostanziale non vi è alcun minimo 
+00:01:03,340 --> 00:01:08,100
+anche se fai solo poche modifiche alla mappa attraverso il gestore di task di OpenStreetMap,
 
 22
-00:01:11,959 --> 00:01:17,099
- e ogni sforzo aiuta non importa quanto piccolo, se facciamo tutti un po 'insieme 
+00:01:08,100 --> 00:01:10,540
+stai DANDO UN AIUTO SOSTANZIALE.
 
 23
-00:01:17,099 --> 00:01:21,109
- possiamo realizzare un sacco ci sono le istruzioni scritte sulla mappa give 
+00:01:10,820 --> 00:01:14,860
+Non c'è un livello minimo ed ogni contributo aiuta, per quanto piccolo.
 
 24
-00:01:21,109 --> 00:01:21,688
- posto 
+00:01:15,100 --> 00:01:18,880
+Se ciascuno di noi fa un pezzettino, insieme possiamo fare molto.
 
 25
-00:01:21,688 --> 00:01:25,399
- che può essere utile, come si inizia a mappare qualsiasi tasking OpenStreetMap 
+00:01:19,000 --> 00:01:21,600
+Puoi trovare alcune istruzioni scritte sul sito MapGive
 
 26
-00:01:25,400 --> 00:01:30,009
- direttore se non ti senti a tuo agio napping Fai passare questo video 
+00:01:21,600 --> 00:01:23,860
+che ti possono essere utili quando inizierai a mappare
 
 27
-00:01:30,009 --> 00:01:33,118
- e selezionare la modalità di collegamento video tutorial 
+00:01:23,860 --> 00:01:26,020
+con il gestione di task di OpenStreetMap.
 
 28
-00:01:33,118 --> 00:01:36,349
- dalla mappa del sito dà tornare a questo video 
+00:01:26,020 --> 00:01:29,940
+Se non ti senti ancora a tuo agio a mappare, metti in pausa il video
 
 29
-00:01:36,349 --> 00:01:39,819
- una volta che si è pronti per iniziare 
+00:01:29,940 --> 00:01:34,820
+e guarda di nuovo il video tutorial su "Come mappare" dal sito di MapGive.
 
 30
-00:01:39,819 --> 00:01:43,398
- dalla mappa fornisce imparare a mappare pagina scroll down 
+00:01:34,980 --> 00:01:37,620
+Torna a guardare questo video quando ti sentirai pronto.
 
 31
-00:01:43,399 --> 00:01:47,140
- essere basso il video al la sezione chiamata selezionare un'attività 
+00:01:38,620 --> 00:01:39,900
+Per iniziare
 
 32
-00:01:47,140 --> 00:01:50,140
- in questa sezione potrete consultare un elenco 
+00:01:39,900 --> 00:01:42,260
+Nella pagina "Impara a mappare" di MapGive,
 
 33
-00:01:50,140 --> 00:01:55,310
- una attività di mappatura umanitarie selezionare quello che si desidera lavorare su 
+00:01:42,260 --> 00:01:47,400
+scorri verso il fondo fino alla sezione chiamata "Seleziona un task".
 
 34
-00:01:55,310 --> 00:01:58,329
- una volta selezionata l'operazione sia 
+00:01:47,400 --> 00:01:52,640
+In questa sezione, troverai un elenco di attività di mappatura umanitaria.
 
 35
-00:01:58,328 --> 00:02:03,629
- una nuova scheda o finestra del browser aperta che vi porterà direttamente alle attività di mappatura 
+00:01:53,000 --> 00:01:55,460
+Seleziona quella sulla quale vuoi iniziare a lavorare.
 
 36
-00:02:03,629 --> 00:02:08,429
- sul gestore tasking sito OpenStreetMap qui vi verrà chiesto di accedere 
+00:01:55,460 --> 00:01:57,460
+Dopo aver selezionato il compito,
 
 37
-00:02:08,429 --> 00:02:09,098
- nella vostra 
+00:01:57,460 --> 00:02:01,360
+si aprirà una nuova scheda oppure una nuova finestra del browser
 
 38
-00:02:09,098 --> 00:02:13,959
- Conto OpenStreetMap questo è lo stesso account si è registrato nel passaggio 1 
+00:02:01,360 --> 00:02:03,560
+che ti porterà direttamente al task di mappatura
 
 39
-00:02:13,959 --> 00:02:18,330
- sul Mac tuo sito è imparare a mappare sezione vi sarà anche chiesto di 
+00:02:03,560 --> 00:02:06,700
+sul sito del gestore di task di OpenStreetMap (OpenStreetMap Tasking Manager).
 
 40
-00:02:18,330 --> 00:02:19,200
- autorizzare 
+00:02:06,820 --> 00:02:10,639
+Quindi ti verrà chiesto di accedere al tuo account OpenStreetMap.
 
 41
-00:02:19,199 --> 00:02:22,909
- il manager tasking OpenStreetMap accesso al tuo account 
+00:02:10,880 --> 00:02:13,140
+È lo stesso account che hai registrato
 
 42
-00:02:22,909 --> 00:02:27,219
- per favore postula video può prendere un momento per assicurarsi che hai effettuato l'accesso 
+00:02:13,140 --> 00:02:16,880
+nella FASE UNO della pagina "Impara a mappare" sul sito di MapGive.
 
 43
-00:02:27,219 --> 00:02:28,139
- in modo non corretto 
+00:02:16,880 --> 00:02:19,120
+Ti verrà anche chiesto di autorizzare
 
 44
-00:02:28,139 --> 00:02:32,039
- l'avvio di un'attività in 
+00:02:19,180 --> 00:02:23,060
+l'accesso del gestore di task di OpenStreetMap al tuo account.
 
 45
-00:02:32,039 --> 00:02:36,400
- una volta che avete firmato e consentito l'accesso qui OpenStreetMap tuo account 
+00:02:23,680 --> 00:02:25,120
+Per favore, metti in pausa il video ora
 
 46
-00:02:36,400 --> 00:02:39,370
- vedrà il compito che è stato selezionato dal sito cartina dare 
+00:02:25,120 --> 00:02:28,600
+e prenditi un momento per assicurarti di aver eseguito il login in modo corretto.
 
 47
-00:02:39,370 --> 00:02:43,269
- vedrete una mappa e alcune informazioni circa l'attività 
+00:02:29,480 --> 00:02:31,260
+Iniziare un task
 
 48
-00:02:43,269 --> 00:02:47,640
- le informazioni circa l'attività include una descrizione quanto map dare vorrebbe 
+00:02:32,000 --> 00:02:33,260
+Una volta che avrai eseguito il login
 
 49
-00:02:47,639 --> 00:02:48,729
- di concentrarsi su 
+00:02:33,260 --> 00:02:36,120
+ed avrai consentito l'accesso al tuo account OpenStreetMap al gestore di task,
 
 50
-00:02:48,729 --> 00:02:52,439
- vivono a compito è quello istruzioni importanti 
+00:02:36,120 --> 00:02:39,520
+vedrai il compito che hai selezionato dal sito di MapGive.
 
 51
-00:02:52,439 --> 00:02:55,889
- e cosa mappare le singole attività di mappatura 
+00:02:39,800 --> 00:02:43,300
+Vedrai una mappa ed alcune informazioni riguardanti la task.
 
 52
-00:02:55,889 --> 00:02:59,639
- che gli utenti hanno lavorato a questo compito e alcune statistiche 
+00:02:43,420 --> 00:02:46,640
+Le informazioni sul compito comprendono una descrizione
 
 53
-00:02:59,639 --> 00:03:01,109
- sull'attività 
+00:02:46,640 --> 00:02:49,180
+di ciò su cui MapGive vorrebbe che ti concentrassi,
 
 54
-00:03:01,110 --> 00:03:05,500
- si prega di passare questo video e familiarizzare con i test OpenStreetMap 
+00:02:49,180 --> 00:02:53,560
+sul perché questo compito è importante, delle istruzioni su cosa mappare,
 
 55
-00:03:05,500 --> 00:03:08,689
- direttore di tornare a questo video quando si è pronti 
+00:02:53,560 --> 00:02:58,580
+le singole attività di mappatura, quali utenti hanno lavorato a questo compito
 
 56
-00:03:08,689 --> 00:03:11,840
- per maggiori dettagli scegliere una tessera per lavorare su 
+00:02:58,580 --> 00:03:00,940
+ed alcune statistiche riguardanti la task.
 
 57
-00:03:11,840 --> 00:03:15,120
- usiamo la mappa interattiva e zoom in 
+00:03:00,940 --> 00:03:02,420
+Per favore, metti in pausa il video
 
 58
-00:03:15,120 --> 00:03:19,330
- su piastrelle evidenziati il ​​compito è stato suddiviso in più piccoli 
+00:03:02,420 --> 00:03:06,440
+e familiarizza con il gestore di task di OpenStreetMap (OpenStreetMap Tasking Manager).
 
 59
-00:03:19,330 --> 00:03:23,410
- aree di piastrelle la mappa per consentire di fare un po di mappatura bit 
+00:03:06,440 --> 00:03:09,780
+Riprendi questo video quando ti sentirai pronto a ricevere ulteriori informazioni.
 
 60
-00:03:23,409 --> 00:03:26,689
- piuttosto che cercare di mappare l'intera area 
+00:03:10,260 --> 00:03:12,220
+Scegliere un riquadro sul quale lavorare
 
 61
-00:03:26,689 --> 00:03:31,159
- questo permette anche di altri su una mappa contemporaneamente altre tessere aree sono state 
+00:03:12,480 --> 00:03:16,640
+Usa la mappa interattiva e zooma sui riquadri evidenziati.
 
 62
-00:03:31,159 --> 00:03:35,049
- facendo questo in piccoli pezzi che si possono lavorare tutti 
+00:03:16,820 --> 00:03:21,040
+Questa task è stato suddiviso in aree riquadrate più piccole
 
 63
-00:03:35,050 --> 00:03:39,400
- più velocemente quando si seleziona tegola si sta assumendo un compito 
+00:03:21,040 --> 00:03:23,500
+per permettere a chiunque di mapparne un pezzetto
 
 64
-00:03:39,400 --> 00:03:43,039
- il vostro compito è quello di mappare che è perfetto io tracciando 
+00:03:23,500 --> 00:03:26,440
+invece che cercare di mappare l'intera area.
 
 65
-00:03:43,039 --> 00:03:48,879
- piastrelle grigie immagini satellitari rappresentano tutte le attività disponibili su questo lavoro 
+00:03:26,680 --> 00:03:28,220
+Questo permette anche ad altri
 
 66
-00:03:48,879 --> 00:03:52,490
- rettili sono aree che sono state contrassegnate come eseguite 
+00:03:28,220 --> 00:03:31,520
+di mappare simultaneamente altri riquadri o zone delle mappa.
 
 67
-00:03:52,490 --> 00:03:56,000
- aree piastrelle verdi che sono state contrassegnate come eseguite 
+00:03:31,640 --> 00:03:35,820
+Mappando delle piccole porzioni, tutti possono lavorare più velocemente.
 
 68
-00:03:56,000 --> 00:04:00,150
- e sono stati anche convalidati piastrelle grigie 
+00:03:35,840 --> 00:03:39,380
+Quando si seleziona un riquadro, si sta scegliendo un COMPITO (task).
 
 69
-00:04:00,150 --> 00:04:04,050
- giallo delinea le aree che attualmente sta lavorando 
+00:03:39,620 --> 00:03:42,240
+Il tuo compito è quello di mappare quello specifico riquadro
 
 70
-00:04:04,050 --> 00:04:07,130
- cliccare su un grande farò sulla mappa per selezionata 
+00:03:42,300 --> 00:03:44,340
+tracciando le immagini satellitari.
 
 71
-00:04:07,129 --> 00:04:11,129
- la scheda attività aperta nella scheda attività 
+00:03:45,040 --> 00:03:49,100
+I riquadri grigi rappresentano tutte le zone disponibili.
 
 72
-00:04:11,129 --> 00:04:14,169
- fare clic sul pulsante verde che dice di sì 
+00:03:49,340 --> 00:03:52,660
+I riquadri rossi sono aree che sono state contrassegnate come eseguite.
 
 73
-00:04:14,169 --> 00:04:17,909
- Voglio lavorare su questo compito in selezionando una piastrella 
+00:03:52,960 --> 00:03:56,080
+I riquadri verdi sono aree che sono state contrassegnati come fatto
 
 74
-00:04:17,910 --> 00:04:22,019
- si sta verificando fuori nessun altro sarà in grado di modificare lo stile 
+00:03:56,080 --> 00:03:58,700
+e che sono state anche convalidate.
 
 75
-00:04:22,019 --> 00:04:25,209
- mentre si sta lavorando su di esso dopo aver completato 
+00:03:59,080 --> 00:04:01,380
+I riquadri di colore grigio con il contorno giallo
 
 76
-00:04:25,209 --> 00:04:28,329
- lavorando sulla tessera sarà necessario controllare di nuovo in 
+00:04:01,380 --> 00:04:03,920
+sono le aree che sono attualmente in lavorazione.
 
 77
-00:04:28,329 --> 00:04:33,079
- così gli altri possono confermare la mia generazione sul vostro lavoro bene spiegare come controllare le aree 
+00:04:04,140 --> 00:04:07,060
+Clicca su un riquadro sulla mappa per selezionarlo.
 
 78
-00:04:33,079 --> 00:04:33,800
- torna in 
+00:04:07,400 --> 00:04:09,700
+Si aprirà la scheda attività.
 
 79
-00:04:33,800 --> 00:04:37,430
- accorciando la scheda operazione ha un paio di sezioni aggiuntive 
+00:04:09,800 --> 00:04:13,540
+In questa scheda attività, clicca sul pulsante verde che dice:
 
 80
-00:04:37,430 --> 00:04:41,930
- istruzioni supplementari informazioni su come accreditare le modifiche 
+00:04:13,540 --> 00:04:16,300
+"Yes, I want to work on this task" ("Sì, voglio lavorare su questo compito").
 
 81
-00:04:41,930 --> 00:04:46,530
- e la storia mi limiterò a chiedere ai garantire menti supplementari conterrà le informazioni 
+00:04:16,540 --> 00:04:19,399
+Selezionando un riquadro lo stai "riservando" (check out).
 
 82
-00:04:46,529 --> 00:04:48,119
- circa l'immaginario 
+00:04:19,579 --> 00:04:21,980
+Nessun altro sarà in grado di modificare quel riquadro
 
 83
-00:04:48,120 --> 00:04:50,410
- si sta per lavorare con 
+00:04:21,980 --> 00:04:23,980
+mentre tu stai lavorando su di esso.
 
 84
-00:04:50,410 --> 00:04:54,710
- highs questo video, se avete bisogno di e assicurarsi di aver selezionato correttamente 
+00:04:23,980 --> 00:04:26,380
+Dopo aver completato la lavorazione di quel riquadro
 
 85
-00:04:54,709 --> 00:04:58,180
- un compito che lavora su un compito in ID 
+00:04:26,380 --> 00:04:28,380
+sarà necessario renderlo di nuovo disponibile (check in)
 
 86
-00:04:58,180 --> 00:05:02,030
- editor di selezionare ID dalla strumento di editing 
+00:04:28,380 --> 00:04:31,060
+di modo che altri possono convalidare o sviluppare ulteriormente il tuo lavoro.
 
 87
-00:05:02,029 --> 00:05:06,508
- opzioni questo è lo stesso editor che hai usato per imparare come mappare 
+00:04:31,380 --> 00:04:34,500
+Il processo di "check-in" è spiegato più avanti in queste istruzioni.
 
 88
-00:05:06,509 --> 00:05:11,180
- OpenStreetMap e questo aprirà in una nuova scheda o finestra nel browser 
+00:04:34,640 --> 00:04:37,640
+La scheda del task ha alcune sezioni aggiuntive:
 
 89
-00:05:11,180 --> 00:05:14,959
- OpenStreetMap con qualsiasi editor di ID e 
+00:04:37,640 --> 00:04:39,420
+istruzioni supplementari,
 
 90
-00:05:14,959 --> 00:05:19,418
- l'editor ID caricare automaticamente le immagini satellitari ad alta risoluzione 
+00:04:39,420 --> 00:04:42,480
+informazioni su come fare l'attribuzione delle modifiche
 
 91
-00:05:19,418 --> 00:05:23,409
- per voi a Maplin si vede anche un rettangolo di selezione 
+00:04:42,480 --> 00:04:44,480
+e la cronologia di questo task.
 
 92
-00:05:23,410 --> 00:05:27,820
- che vi mostra esattamente l'area che segna la tegola selezionato 
+00:04:44,480 --> 00:04:47,260
+Le istruzioni supplementari contengono informazioni
 
 93
-00:05:27,819 --> 00:05:32,370
- potrebbe essere necessario regolare l'immagini satellitari da abbinare con una mappa esistente a 
+00:04:47,260 --> 00:04:49,620
+sulle immagini sulle quali si sta per lavorare.
 
 94
-00:05:32,370 --> 00:05:32,750
- esso 
+00:04:50,240 --> 00:04:52,460
+Metti in pausa questo video, se necessario,
 
 95
-00:05:32,750 --> 00:05:37,750
- questo è un processo molto semplice basta cliccare sul tasto strati 
+00:04:52,460 --> 00:04:55,720
+ed assicurarti di aver selezionato correttamente un task/compito.
 
 96
-00:05:37,750 --> 00:05:42,870
- scorrere verso il basso per correggere l'allineamento e utilizzare i tasti freccia per allineati correttamente il 
+00:04:55,980 --> 00:04:58,980
+Lavorare su un task con l'editor iD
 
 97
-00:05:42,870 --> 00:05:44,870
- immagini satellitari ad alta risoluzione 
+00:04:59,480 --> 00:05:02,940
+Seleziona l'editor iD dalle opzioni degli strumenti di modifica.
 
 98
-00:05:44,870 --> 00:05:49,649
- con la mappa esistente aggiunto potrebbe essere necessario ingrandire abbastanza vicino 
+00:05:02,940 --> 00:05:07,740
+È lo stesso editor che hai usato per imparare a mappare su OpenStreetMap.
 
 99
-00:05:49,649 --> 00:05:53,120
- per fare questo dopo aver regolato l'allineamento 
+00:05:08,120 --> 00:05:14,100
+Si aprirà una nuova scheda o finestra nel browser con OpenStreetMap e l'editor iD.
 
 100
-00:05:53,120 --> 00:05:56,149
- è il momento di iniziare la mappatura aggiungendo strade 
+00:05:14,880 --> 00:05:17,380
+L'editor iD caricherà automaticamente
 
 101
-00:05:56,149 --> 00:06:00,489
- edifici di percorso nelle zone proprio come hai fatto quando si impara a mappare 
+00:05:17,380 --> 00:05:20,960
+le immagini satellitari ad alta risoluzione per eseguire la mappatura.
 
 102
-00:06:00,490 --> 00:06:05,000
- in precedenza per esempio come avete fatto nella pratica 
+00:05:21,260 --> 00:05:23,440
+Vedrai anche un riquadro esterno
 
 103
-00:06:05,000 --> 00:06:08,300
- identificare scritto, cercando in 10 e rintracciarli 
+00:05:23,440 --> 00:05:27,620
+che ti segnalerà l'area esatta del riquadro che hai selezionato.
 
 104
-00:06:08,300 --> 00:06:11,470
- estatico ET quando si effettua una mappa a questo 
+00:05:28,100 --> 00:05:30,780
+Potrebbe essere necessario regolare l'allineamento delle immagini satellitari
 
 105
-00:06:11,470 --> 00:06:15,919
- una finestra di dialogo fare clic qui non si può sapere il nome specifico se sono più vecchi 
+00:05:30,780 --> 00:05:33,040
+per fare in modo che combacino con gli elementi esistenti sulla mappa.
 
 106
-00:06:15,918 --> 00:06:16,560
- costruzione 
+00:05:33,280 --> 00:05:35,600
+La procedura è molto semplice.
 
 107
-00:06:16,560 --> 00:06:20,430
- che è bene per esempio, quando si seleziona 
+00:05:35,600 --> 00:05:37,900
+È sufficiente fare clic sul pulsante "livelli",
 
 108
-00:06:20,430 --> 00:06:23,430
- il testimone edificio sull'editor ID vostra mappa 
+00:05:37,900 --> 00:05:41,680
+ed in basso troverai "allinea", quindi usa le frecce
 
 109
-00:06:23,430 --> 00:06:28,840
- modifica viene automaticamente etichettato come un edificio ricordatevi di salvare dopo aver effettuato 
+00:05:41,680 --> 00:05:44,860
+per allineare correttamente le immagini satellitari ad alta risoluzione
 
 110
-00:06:28,839 --> 00:06:29,429
- il vostro a esso 
+00:05:44,860 --> 00:05:47,100
+con gli elementi esistente sulla mappa.
 
 111
-00:06:29,430 --> 00:06:33,918
- questo assicura che la vostra mappa e la sua sono a disposizione del mondo intero 
+00:05:47,400 --> 00:05:51,020
+Potrebbe essere necessario ingrandire molto la mappa, per compiere questa operazione.
 
 112
-00:06:33,918 --> 00:06:38,459
- chiediamo che si accredita il vostro lavoro ogni volta che si salva le modifiche 
+00:05:51,200 --> 00:05:54,960
+Dopo aver regolato l'allineamento, è il momento di iniziare la mappatura:
 
 113
-00:06:38,459 --> 00:06:41,969
- una mappa di raccolta a sua sono chiamati un cambiamento che 
+00:05:54,960 --> 00:05:58,540
+aggiungi strade, sentieri, edifici ed aree,
 
 114
-00:06:41,970 --> 00:06:46,360
- e quando si salva il aggiunto si sono essenzialmente applicando un commit 
+00:05:58,540 --> 00:06:01,340
+proprio come hai fatto quando hai imparato a mappare in precedenza.
 
 115
-00:06:46,360 --> 00:06:51,050
- per il sistema operativo e il database l'editor idea di quello che chiederà se si desidera fornire 
+00:06:01,780 --> 00:06:05,120
+Per esempio, proprio come hai fatto nell'esercizio precedente,
 
 116
-00:06:51,050 --> 00:06:55,590
- messaggio di commit alla vostra collezione a queste informazioni ci aiuterà a 
+00:06:05,120 --> 00:06:09,880
+individua le strade, cercandole e tracciandole. È facile.
 
 117
-00:06:55,589 --> 00:06:57,978
- capire quando esso è stato fatto come parte 
+00:06:10,100 --> 00:06:13,480
+Quando si effettua una modifica sulla mappa, appare una finestra di dialogo.
 
 118
-00:06:57,978 --> 00:07:01,129
- avere tovaglioli di riaccreditare a esso cliccate 
+00:06:13,620 --> 00:06:16,680
+Potresti non sapere il nome specifico della strada o dell'edificio che hai mappato,
 
 119
-00:07:01,129 --> 00:07:04,968
- torna alla scheda direttore tasking OpenStreetMap nel tuo browser 
+00:06:16,680 --> 00:06:18,300
+che non è un problema.
 
 120
-00:07:04,968 --> 00:07:08,870
- scorrere verso il basso la sezione di credito in app compito 
+00:06:18,300 --> 00:06:22,700
+Per esempio, quando si seleziona il pulsante "Edificio" (Building) nell'editor iD,
 
 121
-00:07:08,870 --> 00:07:13,728
- copiare il click accreditato fornita indietro sulla scheda Editor idea 
+00:06:22,700 --> 00:06:26,780
+la modifica sulla mappa viene automaticamente etichettata come un edificio.
 
 122
-00:07:13,728 --> 00:07:16,949
- Nel tuo browser incolla il credito nel commettere 
+00:06:27,000 --> 00:06:29,680
+Ricordati di salvare dopo aver apportato le modifiche.
 
 123
-00:07:16,949 --> 00:07:21,899
- sezione la finestra di dialogo si può eventualmente fare. se avete bisogno di abituarmi 
+00:06:29,680 --> 00:06:31,840
+Questo ti assicura che le tue modifiche alla mappa
 
 124
-00:07:21,899 --> 00:07:23,069
- con l'editor 
+00:06:31,840 --> 00:06:34,400
+siano a disposizione del mondo intero.
 
 125
-00:07:23,069 --> 00:07:27,009
- e la rintracciabilità si sta per fare la rifinitura 
+00:06:34,740 --> 00:06:38,620
+Ti chiediamo di attribuire il tuo lavoro ogni volta che salvi le tue modifiche.
 
 126
-00:07:27,009 --> 00:07:30,569
- un'attività volta completata la mappatura un'area 
+00:06:38,620 --> 00:06:42,160
+Una collezione di modifiche sulla mappa sono detti "changeset" (insieme di modifiche),
 
 127
-00:07:30,569 --> 00:07:35,610
- o semplicemente decidere di interrompere napping per ora si prega di restituire al compito OpenStreetMap 
+00:06:42,160 --> 00:06:43,740
+e ogni qual volta si fa un salvataggio
 
 128
-00:07:35,610 --> 00:07:36,370
- manager 
+00:06:43,740 --> 00:06:48,240
+sostanzialmente si sta facendo un "commit" sul database di OSM.
 
 129
-00:07:36,370 --> 00:07:39,370
- e sia sbloccare il compito o 
+00:06:48,240 --> 00:06:53,600
+L'editor iD ti chiederà se vuoi fornire un "messaggio di commit" al tuo changeset;
 
 130
-00:07:39,370 --> 00:07:42,550
- mercato e Stockton sbloccare il compito 
+00:06:53,960 --> 00:06:56,260
+questa informazione ci aiuterà a capire
 
 131
-00:07:42,550 --> 00:07:46,560
- significa che hai fatto un po 'sulla mappa a esso, ma ci sono più da fare 
+00:06:56,260 --> 00:06:58,720
+quando una modifica è stata fatta come parte del progetto MapGive.
 
 132
-00:07:46,560 --> 00:07:49,899
- che segna il compito è fatto significa che avete fatto 
+00:06:58,720 --> 00:07:00,280
+Per assegnare l'attribuzione alle modifiche,
 
 133
-00:07:49,899 --> 00:07:54,329
- tutta la mappa alla sua possibile quando si sblocca un compito 
+00:07:00,280 --> 00:07:05,160
+clicca di nuovo sulla scheda del gestore di task di OpenStreetMap nel tuo browser.
 
 134
-00:07:54,329 --> 00:07:59,620
- tasking gestore chiedeva un commento sentiti libero di fare qualunque commento che 
+00:07:05,420 --> 00:07:09,060
+Scorri fino alla sezione "attribuzione" (credit) nella scheda dell'attività.
 
 135
-00:07:59,620 --> 00:08:00,079
- sentire 
+00:07:09,240 --> 00:07:11,320
+Copia l'attribuzione.
 
 136
-00:08:00,079 --> 00:08:03,300
- sono utili per quanto riguarda questo compito per esempio 
+00:07:11,520 --> 00:07:14,860
+Clicca di nuovo sulla scheda dell'editor iD nel tuo browser.
 
 137
-00:08:03,300 --> 00:08:06,338
- si potrebbe indicare la quantità delle piastrelle completo 
+00:07:15,080 --> 00:07:19,220
+Incolla la stringa di attribuzione nella sezione tag della finestra di dialogo.
 
 138
-00:08:06,338 --> 00:08:09,528
- o una specifica funzionalità ancora bisogno di lavoro 
+00:07:19,580 --> 00:07:21,060
+Puoi mettere in pausa il video ora
 
 139
-00:08:09,528 --> 00:08:12,668
- se non avete commenti da fare scrivere semplicemente 
+00:07:21,060 --> 00:07:23,060
+se ti è necessario acquisire familiarità con l'editor
 
 140
-00:08:12,668 --> 00:08:17,930
- no comment chiusura se ti senti come hai bisogno di un po 'più di pratica prima 
+00:07:23,060 --> 00:07:25,200
+e le operazioni di tracciamento che andrai ad eseguire.
 
 141
-00:08:17,930 --> 00:08:18,778
- salto in 
+00:07:26,280 --> 00:07:28,140
+Concludere un task
 
 142
-00:08:18,778 --> 00:08:22,120
- torna alla mappa dare imparare a pagina e guardare la mappa 
+00:07:28,600 --> 00:07:30,560
+Una volta terminata la mappatura di un'area,
 
 143
-00:08:22,120 --> 00:08:25,990
- il come mappare il video seguire e praticato 
+00:07:30,560 --> 00:07:33,280
+o semplicemente quando decidi di smettere di mappare per il momento,
 
 144
-00:08:25,990 --> 00:08:29,370
- finché non si sente abbastanza sicuro per lavorare nel task manager 
+00:07:33,280 --> 00:07:36,360
+per favore torna al gestore di task di OpenStreetMap
 
 145
-00:08:29,370 --> 00:08:32,948
- il gioco è fatto ora siete una questione vera e propria 
+00:07:36,360 --> 00:07:38,780
+e rendi di nuovo disponibile il compito (“unlock the task”)
 
 146
-00:08:32,948 --> 00:08:36,698
- grazie per imparare a mappa e anche per la mappatura a fare la differenza 
+00:07:38,780 --> 00:07:40,780
+o "segnala come completato" (“mark as done”).
 
+147
+00:07:41,260 --> 00:07:44,980
+Sbloccare la task significa che hai fatto alcune dei modifiche,
+
+148
+00:07:44,980 --> 00:07:46,980
+ma che ne rimangono altre da fare.
+
+149
+00:07:46,980 --> 00:07:48,720
+Segnalare l'attività come completa
+
+150
+00:07:48,720 --> 00:07:51,900
+significa che hai effettuato tutte le modifiche possibili sulla mappa.
+
+151
+00:07:52,720 --> 00:07:57,380
+Quando si sblocca un compito, il gestore di task ti chiederà di inserire un commento.
+
+152
+00:07:57,380 --> 00:07:59,960
+Sentiti liberi di inserire qualsiasi commento
+
+153
+00:07:59,960 --> 00:08:02,220
+che ritieni utile relativamente al compito.
+
+154
+00:08:02,340 --> 00:08:06,280
+Per esempio, puoi indicare la percentuale del riquadro che hai completato,
+
+155
+00:08:06,280 --> 00:08:09,600
+oppure se ci sono degli elementi specifici che hanno ancora bisogno di lavoro.
+
+156
+00:08:09,960 --> 00:08:13,960
+Se non hai osservazioni da fare, è sufficiente scrivere "nessun commento" (“no comments”).
+
+157
+00:08:14,080 --> 00:08:15,380
+Finale
+
+158
+00:08:15,380 --> 00:08:17,680
+Se pensi di aver ancora bisogno di fare un po' di pratica
+
+159
+00:08:17,680 --> 00:08:21,340
+prima di gettarti nella mischia, torna alla pagina "Impara a mappare" sul sito di MapGive
+
+160
+00:08:21,340 --> 00:08:23,940
+e guarda il video "Come mappare".
+
+161
+00:08:24,340 --> 00:08:27,580
+Segui il video e fai pratica finché non ti sentirai abbastanza sicuro
+
+162
+00:08:27,580 --> 00:08:29,720
+per lavorare nel gestore di task.
+
+163
+00:08:29,920 --> 00:08:33,220
+Ecco tutto. Ora sei un mappatore a pieno titolo!
+
+164
+00:08:33,220 --> 00:08:37,700
+Grazie per aver deciso di imparare a mappare e di fare la differenza.
