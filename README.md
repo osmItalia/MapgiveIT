@@ -27,7 +27,7 @@ La traduzione di MapgiveIT è stata effettuata da:
 * Maurizio Napolitano, Fondazione Bruno Kessler, Trento (TN) - Italy
 * Leonardo Frassetto
 * Giovanni Cascafico
-* Alessandro (Zena)
+* Alessandro Palmas
 * Simone F. (Groppo)
 
 Un ringraziamento va anche a tutti coloro i quali hanno segnalato errori e
@@ -166,7 +166,7 @@ The following people have contributed to MapgiveIT:
 * Maurizio Napolitano, Fondazione Bruno Kessler, Trento (TN) - Italy
 * Leonardo Frassetto
 * Giovanni Cascafico
-* Alessandro (Zena)
+* Alessandro Palmas
 * Simone F. (Groppo)
 
 A special thank goes to everybody who contributed reporting bugs and misprints
