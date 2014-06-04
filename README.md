@@ -95,10 +95,12 @@ mkdir backup
 *Importante*: nel caso ci si dimentichi di creare la cartella si riscontrerà
 un errore nell'esecuzione di Grunt simile al seguente:
 
-<span style="text-decoration: underline;">Running "backupSite" task</span>
-<span style="color:yellow;">Warning: ENOENT, no such file or directory 'backups/201464192549' Use --force to continue.</span>
+```
+Running "backupSite" task
+Warning: ENOENT, no such file or directory 'backups/201464192549' Use --force to continue.
 
-<span style="color:red;">make something red</span>Aborted due to warnings.</span>
+Aborted due to warnings.
+```
 
 per risolverlo basta creare la cartella `backup` nella radice del repository.
 
@@ -245,10 +247,12 @@ mkdir backup
 *Important*: if you forget to create the directory you will receive an error
 like this when executing Grunt:
 
-<span style="text-decoration: underline;">Running "backupSite" task</span>
-<span style="color:yellow;">Warning: ENOENT, no such file or directory 'backups/201464192549' Use --force to continue.</span>
+```
+Running "backupSite" task
+Warning: ENOENT, no such file or directory 'backups/201464192549' Use --force to continue.
 
-<span style="color:red;">make something red</span>Aborted due to warnings.</span>
+Aborted due to warnings.
+```
 
 to solve it just create the `backup` directory in the repository root.
 
