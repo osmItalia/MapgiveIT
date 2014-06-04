@@ -36,7 +36,7 @@ refusi e in particolare alla lista
 di OpenStreetMap ed alla Humanitarian Information Unit (HIU) del Dipartimento
 di Stato degli Stati Uniti per il supporto fornito durante la traduzione.
 
-## Istruzioni per lo sviluppo
+## Istruzioni per lo sviluppo, la traduzione e la localizzazione
 Se volete partecipare al miglioramento del sito potete 
 [forkare](https://github.com/osmItalia/MapgiveIT/fork) 
 questo repository e mandare una 
@@ -58,7 +58,8 @@ Le seguenti versioni permettono di costruire una build funzionante del sito:
 * `jpegtran` v1.2.0
 
 Per installare Jekyll è necessario avere un'ambiente di sviluppo Ruby sulla
-propria macchina, in particolare si consiglia di installare RVM.
+propria macchina, in particolare si consiglia di installare RVM (_Ruby
+Version Manager_).
 Seguite queste istruzioni per 
 [installare RVM su Ubuntu](http://ryanbigg.com/2010/12/ubuntu-ruby-rvm-rails-and-you/) 
 e se aveste bisogno di approfondore potrete trovare ulteriori info su 
@@ -76,7 +77,7 @@ attraverso `apt-get`.
 
 *Attenzione*: la versione di Node.js installata su versioni precedenti di
 Ubuntu (e.g. 12.04 LTS server) è troppo vecchia per  poter essere usata, è
-necessario avere una versione di Node >= 0..8.0.
+necessario avere una versione di Node.js >= 0.8.0.
 Se la vostra versione è troppo vecchia rimuovetela (con
 `apt-get purge --remove nodejs`) e installate Node.js seguendo
 [queste istruzioni](https://ariejan.net/2011/10/24/installing-node-js-and-npm-on-ubuntu-debian/).
@@ -91,17 +92,27 @@ git):
 ```
 mkdir backup
 ```
+*Importante*: nel caso ci si dimentichi di creare la cartella si riscontrerà
+un errore nell'esecuzione di Grunt simile al seguente:
+
+```
+<span style="text-decoration: underline;">Running "backupSite" task</span>
+<span style="color:yellow;">Warning: ENOENT, no such file or directory 'backups/201464192549' Use --force to continue.</span>
+
+<span style="color:red;">make something red</span>Aborted due to warnings.</span>
+```
+per risolverlo basta creare la cartella `backup` nella radice del repository.
 
 ### Dipendenze
 Per potere eseguire i vari task di Grunt è necessario avere installato:
 `OptiPNG` e `jpegtran`.
 
 #### Installare OptiPNG
-La versione di OptiPNG presente nei repository di Ubuntu non supporta
+La versione di OptiPNG presente nei repository di Ubuntu 13.10 non supporta
 un'opzione necessaria alla costruzione del sito.
 
-È possibile scaricare la vv0.7.5 du OptiPNG dal sito del
-[progetto su Sourceforge](http://optipng.sourceforge.net/)
+È possibile scaricare la versione minima richiesta, v0.7.5, di OptiPNG dal sito
+del [progetto su Sourceforge](http://optipng.sourceforge.net/).
 
 Dopodicché è possibile installare il programma con:
 
@@ -112,7 +123,7 @@ sudo make install
 ```
 
 #### Installare jpegtran
-È possibile install `jpegtran` con il comando
+È possibile installare `jpegtran` con il comando
 
 ```
 install libjpeg-progs
@@ -175,3 +186,122 @@ and in particular to the
 OpenStreetMap mailing list and to the Humanitarian Information Unit of the
 State Department of the United States of America for the assistance provided
 with the translation.
+
+## Development, localization and internationalization instructions
+To participate in the development of the MapgiveIT website you can
+[fork](https://github.com/osmItalia/MapgiveIT/fork)
+this repo and send a
+[pull request](https://help.github.com/articles/using-pull-requests).
+
+You can find below some useful information.
+
+### Jekyll + Grunt
+The website is built using [Jekyll](http://jekyllrb.com) and
+[Grunt](http://gruntjs.com/).
+
+The following software at the given versions allow to build a working version
+of the website:
+* `ruby` v2.1.0
+* `jekyll` v1.5.1
+* `nodejs` v0.10.15
+* `grunt-cli` v0.1.13
+* `grunt` v0.4.4
+* `OptiPNG` v0.7.5
+* `jpegtran` v1.2.0
+
+To install Jekyll a Ruby you'll need to have a working Ruby development
+environment on your workstation. This is provided installing RVM (_Ruby
+Version Manager_).
+Please follow these instructions to
+[install RVM on Ubuntu](http://ryanbigg.com/2010/12/ubuntu-ruby-rvm-rails-and-you/)
+if you need more info you can visit the site [rvm.io](http://rvm.io/).
+
+Upon completing the installation of RVM you can install Jekyll with:
+
+```
+gem install jekyll
+```
+
+To install Grunt you need [Node.js](http://nodejs.org) and
+[npm](https://www.npmjs.org/) that can be installed on Ubuntu system using the
+`apt-get` package manager.
+
+*Warning*: the Node.js version which is shipped with the previous releases of
+Ubuntu (e.g. 12.04 LTS server) is too old, you need a version of
+Node.js >= 0.8.0.
+If you have already installed an old version of Node.js you can remove it
+(with `apt-get purge --remove nodejs`) and install a newer version following
+[these instructions](https://ariejan.net/2011/10/24/installing-node-js-and-npm-on-ubuntu-debian/).
+
+Once you have Node.js and npm you can install all the requested modules with
+the following command:
+```
+npm install
+```
+Create a directory to host the backups for the website (it will be ignore by
+git):
+```
+mkdir backup
+```
+*Important*: if you forget to create the directory you will receive an error
+like this when executing Grunt:
+
+```
+<span style="text-decoration: underline;">Running "backupSite" task</span>
+<span style="color:yellow;">Warning: ENOENT, no such file or directory 'backups/201464192549' Use --force to continue.</span>
+
+<span style="color:red;">make something red</span>Aborted due to warnings.</span>
+```
+to solve it just create the `backup` directory in the repository root.
+
+### Dependencies
+To execute all the Grunt task you need to have the following two software
+installed in your system: `OptiPNG` and `jpegtran`.
+
+#### Installing OptiPNG
+The OptiPNG version available in the Ubuntu 13.10 repositories does not
+support an option which is needed to build the site.
+
+You can download and install the minimum required version, v0.7.5, of OptiPNG
+from the [project site on Sourceforge](http://optipng.sourceforge.net/).
+
+You can install it with:
+
+```
+./configure
+make
+sudo make install
+```
+
+#### Installing jpegtran
+You can install `jpegtran` with
+
+```
+install libjpeg-progs
+```
+
+### build.sh
+
+This repo contains a simple script, `build.sh`, to build the site:
+
+```
+./build.sh
+```
+
+The website will be build in the `_site` directory, you can then copy this
+folder and serve it using your favorite webserver.
+
+If you want to test the pages, Jekyll provides a simple development webserver
+which can be activated launching the following command from the repo root:
+
+```
+jekyll serve
+```
+
+### clean.sh
+The script `clean.sh` removes the `assets` (temporary) and `_site` directories.
+Launch it with:
+
+```
+./clean.sh
+```
