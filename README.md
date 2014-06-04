@@ -146,6 +146,7 @@ Se volete testare le pagine, Jekyll mette a disposizione un comodo server di
 sviluppo attivabile lanciando, dalla radice del repository il seguente comando:
 
 ```
+rvm use 2.1.0
 jekyll serve
 ```
 
@@ -297,6 +298,7 @@ If you want to test the pages, Jekyll provides a simple development webserver
 which can be activated launching the following command from the repo root:
 
 ```
+rvm use 2.1.0
 jekyll serve
 ```
 
