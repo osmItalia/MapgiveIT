@@ -997,6 +997,9 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
 .svg .map,
 .svg .hot,
 .svg .dos,
+.svg .mapgive,
+.svg .osmit,
+.svg .fbk,
 .svg .logo,
 .svg .play-button,
 .svg .steps .estimate .clock,
@@ -1004,7 +1007,7 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
   background-image: url("/assets/img/sprite.svgz");
   background-repeat: no-repeat;
   background-position: 0 0;
-  background-size: 366px 208px;
+  background-size: 479px 207px;
 }
 
 .svg .social .mail {
@@ -1046,20 +1049,20 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
 
 .svg .media-object .globe {
   background-position: -67px 0;
-  background-size: 229px 134px;
+  background-size: 300px 134px;
   margin: 0 auto;
 }
 
 .svg .media-object .marker {
   background-position: -195px 0;
-  background-size: 229px 134px;
+  background-size: 300px 134px;
   width: 33px;
   margin: 0 auto;
 }
 
 .svg .media-object .map {
   background-position: -132px 0;
-  background-size: 229px 134px;
+  background-size: 300px 134px;
   width: 63px;
   margin: 0 auto;
 }
@@ -1075,17 +1078,42 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
 }
 
 .svg .media-object .hot {
-  background-position: -156px -68px;
-  background-size: 229px 134px;
-  height: 39px;
+  background-position: -157px -74px;
+  background-size: 300px 150px;
+  height: 43px;
+  width: 73px;
   margin: 0 auto;
 }
 
 .svg .media-object .dos {
-  background-position: 0 -67px;
-  background-size: 229px 134px;
+  background-position: 0 -68px;
+  background-size: 300px 134px;
   width: 67px;
   height: 68px;
+  margin: 0 auto;
+}
+
+.svg .media-object .mapgive {
+  background-position: -113px -68px;
+  background-size: 300px 134px;
+  width: 42px;
+  height: 68px;
+  margin: 0 auto;
+}
+
+.svg .media-object .osmit {
+  background-position: -232px -60px;
+  background-size: 300px 134px;
+  width: 68px;
+  height: 68px;
+  margin: 0 auto;
+}
+
+.svg .media-object .fbk {
+  background-position: -232px 0px;
+  background-size: 300px 134px;
+  width: 67px;
+  height: 60px;
   margin: 0 auto;
 }
 
@@ -1099,25 +1127,25 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
 }
 
 .svg .logo {
-  background-position: -2em -1.16666666666667em; /* -72/36 -42/36 */
-  background-size: 4.05555555555556em 2.30555555555556em; /* 146/36 83/36 */
-  width: 0.80555555555556em; /* 29/36 */
-  height: 1.20833333333333em; /* 43.5/36 */
+  background-position: -1.85555em -1.22222em;
+  background-size: 5.055556em 2.305556em;
+  width: .77em;
+  height: 1.20833333333333em;
   display: inline-block;
   margin: 0 3px;
   position: relative;
-  top: 0.16666666666667em; /* 3/36 */
+  top: .16666666666667em;
 }
 
 .svg .site-logo.white .logo {
-  background-position: -1.19444444444444em -1.13888888888889em; /* -43/36 -41/36 */
-  background-size: 4.05555555555556em 2.30555555555556em; /* 146/36 83/36 */
-  width: 0.80555555555556em; /* 29/36 */
-  height: 1.19444444444444em; /* 43.5/36 */
+  background-position: -1.2em -1.13888888888889em;
+  background-size: 5.05555555555556em 2.30555555555556em;
+  width: .7em;
+  height: 1.19444444444444em;
   display: inline-block;
   margin: 0 3px;
   position: relative;
-  top: 0.16666666666667em; /* 3/36 */
+  top: .16666666666667em;
 }
 
 .svg .play {
@@ -1157,6 +1185,9 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
 .opera-mini .media-object .osm,
 .opera-mini .hot,
 .opera-mini .dos,
+.opera-mini .mapgive,
+.opera-mini .osmit,
+.opera-mini .fbk,
 .opera-mini .brand .logo,
 .opera-mini .footer-title .logo,
 .opera-mini .play-button,
@@ -1168,6 +1199,9 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
 .no-svg .osm,
 .no-svg .hot,
 .no-svg .dos,
+.no-svg .mapgive,
+.no-svg .osmit,
+.no-svg .fbk,
 .no-svg .brand .logo,
 .no-svg .footer-title .logo,
 .no-svg .play-button,
@@ -1239,7 +1273,7 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
 
 .opera-mini .media-object .hot,
 .no-svg .media-object .hot {
-  background-position: -226px -164px;
+  background-position: -230px -164px;
   width: 50px;
   height: 32px;
   margin: 0 auto;
@@ -1247,6 +1281,30 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
 
 .opera-mini .media-object .dos,
 .no-svg .media-object .dos {
+  background-position: -180px -164px;
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+}
+
+.opera-mini .media-object .mapgive,
+.no-svg .media-object .mapgive {
+  background-position: -175px -164px;
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+}
+
+.opera-mini .media-object .osmit,
+.no-svg .media-object .osmit {
+  background-position: -175px -164px;
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+}
+
+.opera-mini .media-object .fbk,
+.no-svg .media-object .fbk {
   background-position: -175px -164px;
   width: 50px;
   height: 50px;
@@ -1360,22 +1418,22 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
   }
 
   .svg .media-object .globe {
-    background-position: -108px 0;
-    background-size: 366px 208px;
+    background-position: -116px 0;
+    background-size: 497px 207px;
     width: 100px;
     height: 100px;
   }
 
   .svg .media-object .marker {
-    background-position: -312px 0;
-    background-size: 366px 208px;
+    background-position: -321px 0;
+    background-size: 497px 207px;
     width: 52px;
     height: 100px;
   }
 
   .svg .media-object .map {
-    background-position: -212px 0;
-    background-size: 366px 208px;
+    background-position: -222px 0;
+    background-size: 497px 207px;
     width: 95px;
     height: 101px;
   }
@@ -1387,17 +1445,38 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
   }
 
   .svg .media-object .hot {
-    background-position: -255px -107px;
-    background-size: 366px 208px;
+    background-position: -260px -107px;
+    background-size: 497px 207px;
     width: 100px;
     height: 61px;
   }
 
   .svg .media-object .dos {
-    background-position: -1px -105px;
-    background-size: 366px 208px;
+    background-position: -10px -105px;
+    background-size: 497px 207px;
     width: 102px;
     height: 102px;
+  }
+
+  .svg .media-object .mapgive {
+    background-position: -188px -102px;
+    background-size: 497px 207px;
+    width: 70px;
+    height: 110px;
+  }
+
+  .svg .media-object .osmit {
+    background-position: -380px -100px;
+    background-size: 497px 207px;
+    width: 110px;
+    height: 110px;
+  }
+
+  .svg .media-object .fbk {
+    background-position: -380px 1px;
+    background-size: 497px 207px;
+    width: 110px;
+    height: 95px;
   }
 
   .opera-mini .steps .estimate .clock,
@@ -1436,14 +1515,35 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
 
   .opera-mini .media-object .hot,
   .no-svg .media-object .hot {
-    background-position: -137px -102px;
+    background-position: -140px -102px;
     width: 100px;
     height: 62px;
   }
 
   .opera-mini .media-object .dos,
   .no-svg .media-object .dos {
-    background-position: -196px -216px;
+    background-position: -200px -216px;
+    width: 100px;
+    height: 100px;
+  }
+
+  .opera-mini .media-object .mapgive,
+  .no-svg .media-object .mapgive {
+    background-position: -397px -216px;
+    width: 100px;
+    height: 100px;
+  }
+
+  .opera-mini .media-object .osmit,
+  .no-svg .media-object .osmit {
+    background-position: -397px -216px;
+    width: 100px;
+    height: 100px;
+  }
+
+  .opera-mini .media-object .fbk,
+  .no-svg .media-object .fbk {
+    background-position: -397px -216px;
     width: 100px;
     height: 100px;
   }
@@ -1493,6 +1593,9 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
 .opera-mini.svg .osm,
 .opera-mini.svg .hot,
 .opera-mini.svg .dos,
+.opera-mini.svg .mapgive,
+.opera-mini.svg .osmit,
+.opera-mini.svg .fbk,
 .opera-mini.svg .logo,
 .opera-mini.svg .play-button,
 .opera-mini.svg .steps .estimate .clock,
@@ -1530,27 +1633,6 @@ blockquote.quotecopy p {
   background: #ccc;
   font-size: 85%
 }
-
-.svg .docu li {
-  background-image: url("/assets/img/kml_document.svg");
-  background-repeat: no-repeat;
-  background-position: 0 0;
-  background-size: 366px 208px;
-}
-
-.svg .media-object .docu {
-  width: 67px;
-  height: 68px;
-  margin: 0 auto;
-}
-
-.fbk {
-  background-image: url("/assets/img/logo_fbk.jpg");
-  background-repeat: no-repeat;
-  background-position: 0 0;
-  background-size: 366px 208px;
-}
-
 
 /* Thanks to... */
 /* Sticky footer http://www.cssstickyfooter.com */
