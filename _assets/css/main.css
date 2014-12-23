@@ -1047,6 +1047,27 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
   height: 65px;
 }
 
+.svg .media-object .fbk {
+  background-position: -232px 0px;
+  background-size: 300px 134px;
+  width: 67px;
+  height: 60px;
+  margin: 0 auto;
+}
+
+.svg .media-object .fbklogo {
+  background-image: url("/assets/img/FBK.svgz");
+  background-repeat: no-repeat;
+  background-position: 6px 16px;
+  background-size: 136px 116px;
+  background-color: white;
+  width: 148px;
+  height: 148px;
+  margin: 0 auto;
+  clear: both;
+  border-radius: 8px;
+}
+
 .svg .media-object .globe {
   background-position: -67px 0;
   background-size: 300px 134px;
@@ -1109,12 +1130,17 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
   margin: 0 auto;
 }
 
-.svg .media-object .fbk {
-  background-position: -232px 0px;
-  background-size: 300px 134px;
-  width: 67px;
-  height: 60px;
+.svg .media-object .wikimedialogo {
+  background-image: url("/assets/img/wikimedia-it.svgz");
+  background-repeat: no-repeat;
+  background-position: 6px 6px;
+  background-size: 136px 136px;
+  background-color: white;
+  width: 148px;
+  height: 148px;
   margin: 0 auto;
+  clear: both;
+  border-radius: 8px;
 }
 
 .site-logo {

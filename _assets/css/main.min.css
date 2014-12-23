@@ -1,4 +1,7 @@
-@font-face{font-family:Open Sans;src:url(/assets/fonts/OpenSans-Regular-webfont.eot);src:url(/assets/fonts/OpenSans-Regular-webfont.eot?#iefix) format('embedded-opentype'), url(/assets/fonts/OpenSans-Regular-webfont.woff) format('woff'), url(/assets/fonts/OpenSans-Regular-webfont.ttf) format('truetype'), url(/assets/fonts/OpenSans-Regular-webfont.svg#open_sansregular) format('svg');font-weight:normal;font-style:normal;}
+@font-face{font-family:"Open Sans";src:url('/assets/fonts/OpenSans-Regular-webfont.eot');src:url('/assets/fonts/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/OpenSans-Regular-webfont.woff') format('woff'),
+         url('/assets/fonts/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('/assets/fonts/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');font-weight:normal;font-style:normal;}
 @media (min-width: 768px){html,body{height:100%;}
 }
 body{font-family:Open Sans,Arial,sans-serif;font-weight:400;font-size:15px;color:#51504d;}
@@ -199,6 +202,8 @@ img[src$=".svgz"].img-responsive,img[src$=".svg"].img-responsive{width:100%;}
 .media{clear:both;}
 .media-object{width:65px;height:65px;}
 .media-object span{display:block;width:65px;height:65px;}
+.svg .media-object .fbk{background-position:-232px 0;background-size:300px 134px;width:67px;height:60px;margin:0 auto;}
+.svg .media-object .fbklogo{background-image:url(/assets/img/FBK.svgz);background-repeat:no-repeat;background-position:6px 16px;background-size:136px 116px;background-color:white;width:148px;height:148px;margin:0 auto;clear:both;border-radius:8px;}
 .svg .media-object .globe{background-position:-67px 0;background-size:300px 134px;margin:0 auto;}
 .svg .media-object .marker{background-position:-195px 0;background-size:300px 134px;width:33px;margin:0 auto;}
 .svg .media-object .map{background-position:-132px 0;background-size:300px 134px;width:63px;margin:0 auto;}
@@ -207,7 +212,7 @@ img[src$=".svgz"].img-responsive,img[src$=".svg"].img-responsive{width:100%;}
 .svg .media-object .dos{background-position:0 -68px;background-size:300px 134px;width:67px;height:68px;margin:0 auto;}
 .svg .media-object .mapgive{background-position:-113px -68px;background-size:300px 134px;width:42px;height:68px;margin:0 auto;}
 .svg .media-object .osmit{background-position:-232px -60px;background-size:300px 134px;width:68px;height:68px;margin:0 auto;}
-.svg .media-object .fbk{background-position:-232px 0;background-size:300px 134px;width:67px;height:60px;margin:0 auto;}
+.svg .media-object .wikimedialogo{background-image:url(/assets/img/wikimedia-it.svgz);background-repeat:no-repeat;background-position:6px 6px;background-size:136px 136px;background-color:white;width:148px;height:148px;margin:0 auto;clear:both;border-radius:8px;}
 .site-logo{font-family:Trebuchet MS,Arial,sans-serif;text-transform:uppercase;}
 .site-logo.white{color:#fff;}
 .svg .logo{background-position:-1.85555em -1.22222em;background-size:5.055556em 2.305556em;width:.77em;height:1.20833333333333em;display:inline-block;margin:0 3px;position:relative;top:.16666666666667em;}
