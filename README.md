@@ -62,8 +62,14 @@ propria macchina, in particolare si consiglia di installare RVM (_Ruby
 Version Manager_).
 Seguite queste istruzioni per 
 [installare RVM su Ubuntu](http://ryanbigg.com/2010/12/ubuntu-ruby-rvm-rails-and-you/) 
-e se aveste bisogno di approfondore potrete trovare ulteriori info su 
+e se aveste bisogno di approfondire potrete trovare ulteriori info su
 [rvm.io](http://rvm.io/).
+
+*Attenzione*: la versione di Ruby che viene installata attraverso
+`apt-get` è vecchia. Seguite le istruzioni del post indicato sopra per installare
+una versione recente di Ruby.
+Potete rimuovere le vecchie versioni di Ruby installate tramite il sistema
+a pacchetti con `apt-get purge --remove ruby*`.
 
 Quando avrete completato l'installazione di RVM potete installare Jekyll con: 
 
@@ -127,7 +133,7 @@ sudo make install
 È possibile installare `jpegtran` con il comando
 
 ```
-install libjpeg-progs
+sudo apt-get install libjpeg-progs
 ```
 
 ### build.sh
@@ -218,6 +224,12 @@ Please follow these instructions to
 [install RVM on Ubuntu](http://ryanbigg.com/2010/12/ubuntu-ruby-rvm-rails-and-you/)
 if you need more info you can visit the site [rvm.io](http://rvm.io/).
 
+*Warning*: the Ruby version installed with `apt-get` is very old.
+If you have already installed an old version of Ruby through the package
+manager you can remove it with `apt-get purge --remove ruby`.
+Install a recent version of Ruby following the instructions in the aforementioned
+post.
+
 Upon completing the installation of RVM you can install Jekyll with:
 
 ```
@@ -280,7 +292,7 @@ sudo make install
 You can install `jpegtran` with
 
 ```
-install libjpeg-progs
+sudo apt-get install libjpeg-progs
 ```
 
 ### build.sh
