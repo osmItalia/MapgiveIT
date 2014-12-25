@@ -1059,12 +1059,13 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
   background-image: url("/assets/img/FBK.svgz");
   background-repeat: no-repeat;
   background-position: 6px 16px;
-  background-size: 136px 116px;
+  background-size: 90%;
   background-color: white;
-  width: 148px;
-  height: 148px;
-  margin: 0 auto;
+  width: 99%;
+  height: 99%;
+  margin: 20px;
   clear: both;
+  float: left;
   border-radius: 8px;
 }
 
@@ -1134,12 +1135,13 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
   background-image: url("/assets/img/wikimedia-it.svgz");
   background-repeat: no-repeat;
   background-position: 6px 6px;
-  background-size: 136px 136px;
+  background-size: 90%;
   background-color: white;
-  width: 148px;
-  height: 148px;
-  margin: 0 auto;
+  width: 99%;
+  height: 99%;
+  margin: 20px;
   clear: both;
+  float: left;
   border-radius: 8px;
 }
 
@@ -1626,6 +1628,11 @@ img[src$=".svgz"].img-responsive, img[src$=".svg"].img-responsive {
 .opera-mini.svg .play-button,
 .opera-mini.svg .steps .estimate .clock,
 .opera-mini.svg .social li {
+  background-size: auto auto;
+}
+
+.opera-mini.svg .fbk,
+.opera-mini.svg .wikimedialogo {
   background-size: auto auto;
 }
 
